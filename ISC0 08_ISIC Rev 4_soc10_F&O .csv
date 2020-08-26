@@ -1,0 +1,1158 @@
+soc10 Occupation Name,F & O Probability,soc10,isco08,Class Level,ISCO Occupation Name,Sector ISIC,ID
+-,-,551011,110,0,Commissioned Armed Forces Officer,-,0-
+-,-,551012,110,0,Commissioned Armed Forces Officer,-,0-
+-,-,551013,110,0,Commissioned Armed Forces Officer,-,0-
+-,-,551014,110,0,Commissioned Armed Forces Officer,-,0-
+-,-,551015,110,0,Commissioned Armed Forces Officer,-,0-
+-,-,551016,110,0,Commissioned Armed Forces Officer,-,0-
+-,-,551017,110,0,Commissioned Armed Forces Officer,-,0-
+-,-,551019,110,0,Commissioned Armed Forces Officer,-,0-
+-,-,552011,210,0,Non-commissioned Armed Forces Officer,-,0-
+-,-,552012,210,0,Non-commissioned Armed Forces Officer,-,0-
+-,-,552013,210,0,Non-commissioned Armed Forces Officer,-,0-
+-,-,553011,310,0,"Armed Forces Occupations, Other Ranks",-,0-
+-,-,553012,310,0,"Armed Forces Occupations, Other Ranks",-,0-
+-,-,553013,310,0,"Armed Forces Occupations, Other Ranks",-,0-
+-,-,553014,310,0,"Armed Forces Occupations, Other Ranks",-,0-
+-,-,553015,310,0,"Armed Forces Occupations, Other Ranks",-,0-
+-,-,553016,310,0,"Armed Forces Occupations, Other Ranks",-,0-
+-,-,553017,310,0,"Armed Forces Occupations, Other Ranks",-,0-
+-,-,553018,310,0,"Armed Forces Occupations, Other Ranks",-,0-
+-,-,553019,310,0,"Armed Forces Occupations, Other Ranks",-,0-
+-,-,111031,1111,1,Legislatures,-,1-
+"Chief Executives, label 0",0.015,111011,1112,1,Senior Government Officials,O,1O
+General and Operations Managers,0.16,111021,1112,1,Senior Government Officials,O,1O
+Emergency Management Directors,0.003,119161,1112,1,Senior Government Officials,O,1O
+"Chief Executives, label 0",0.015,111011,1113,1,Traditional Chiefs and Head of Villages ,O,1O
+-,-,111031,1113,1,Traditional Chiefs and Head of Villages ,O,1O
+General and Operations Managers,0.16,111021,1114,1,Senior Officials of Special-Interest Orgs,M,1M
+Public Relations and Fundraising Managers,0.015,112031,1114,1,Senior Officials of Special-Interest Orgs,M,1M
+"Managers, All Other",0.25,119199,1114,1,Senior Officials of Special-Interest Orgs,M,1M
+"Chief Executives, label 0",0.015,111011,1120,1,Managing Directors and Chief Executives,M,1M
+General and Operations Managers,0.16,111021,1120,1,Managing Directors and Chief Executives,M,1M
+Financial Managers,0.069,113031,1211,1,Finance Managers,K,1K
+Compensation and Benefits Managers,0.96,113111,1212,1,Human Resource Managers,N,1N
+Human Resources Managers,0.0055,113121,1212,1,Human Resource Managers,M,1M
+Training and Development Managers,0.0063,113131,1212,1,Human Resource Managers,P,1P
+"Managers, All Other",0.25,119199,1213,1,Policy and Planning Managers,S,1S
+Public Relations and Fundraising Managers,0.015,112031,1219,1,Business Services and Administration Note Elsewhere Classified,M,1M
+Administrative Services Managers,0.73,113011,1219,1,Business Services and Administration Note Elsewhere Classified,N,1N
+Purchasing Managers,0.03,113061,1219,1,Business Services and Administration Note Elsewhere Classified,M,1M
+"Information Security Analysts, Web Developers, and Computer Network Architects",0.21,119061,1219,1,Business Services and Administration Note Elsewhere Classified,J,1J
+Postmasters and Mail Superintendents,0.75,119131,1219,1,Business Services and Administration Note Elsewhere Classified,H,1H
+"Managers, All Other",0.25,119199,1219,1,Business Services and Administration Note Elsewhere Classified,S,1S
+Marketing Managers,0.014,112021,1221,1,Sales and Marketing Managers,M,1M
+Sales Managers,0.013,112022,1221,1,Sales and Marketing Managers,G,1G
+Advertising and Promotions Managers,0.039,112011,1222,1,Advertising and Public Relations Managers,M,1M
+Public Relations and Fundraising Managers,0.015,112031,1222,1,Advertising and Public Relations Managers,M,1M
+Architectural and Engineering Mangers,0.017,119041,1223,1,Research and Development Managers,M,1M
+Natural Sciences Manager,0.018,119121,1223,1,Research and Development Managers,M,1M
+"Farmers, Ranchers, and Other Agricultural Managers",0.047,119013,1311,1,Agricultural and Forestry Production Managers,A,1A
+"Farmers, Ranchers, and Other Agricultural Managers",0.047,119013,1312,1,Aquaculture and Fisheries Production Managers,A,1A
+Industrial Production Managers,0.03,113051,1321,1,Water and Sewage Manager,E,1E
+Industrial Production Managers,0.03,113051,1321,1,Electricity Managers,D,1D
+Industrial Production Managers,0.03,113051,1321,1,Manufacturing Managers,C,1C
+"Managers, All Other",0.25,119199,1322,1,Mining Managers,B,1B
+Construction Managers,0.071,119021,1323,1,Construction Managers,F,1F
+"Transportation, Storage, and Distribution Managers, label 0",0.59,113071,1324,1,"Supply, Distribution and Related Managers",H,1H
+Computer and Information Systems Managers,0.035,113021,1330,1,Information and Communication Technology Services Managers,J,1J
+"Education Administrators, Preschool and Childcare Centre/Program, label 0",0.015,119031,1341,1,Child Care Services Managers,P,1P
+Medical and Health Services Managers,0.073,119111,1342,1,Health Services Managers,Q,1Q
+General and Operations Managers,0.16,111021,1343,1,Aged Care Services Managers,Q,1Q
+Medical and Health Services Managers,0.073,119111,1343,1,Aged Care Services Managers,Q,1Q
+"Social and Community Services Managers, label 0",0.0067,119151,1344,1,Social Welfare Managers,Q,1Q
+"Education Administrators, Elementary and Secondary School",0.0046,119032,1345,1,Education Managers,P,1P
+"Education Administrators, Postsecondary",0.01,119033,1345,1,Education Managers,P,1P
+-,-,119039,1345,1,Education Managers,P,1P
+General and Operations Managers,0.16,111021,1346,1,Financial and Insurance Services Branch Managers,K,1K
+Financial Managers,0.069,113031,1346,1,Financial and Insurance Services Branch Managers,K,1K
+"Managers, All Other",0.25,119199,1349,1,Professional Services Managers Not Elsewhere Classified -Real Estate,L,1L
+Lodging Managers,0.0039,119081,1411,1,Hotel Managers,I,1I
+Food Service Managers,0.083,119051,1412,1,Restaurant Managers,I,1I
+General and Operations Managers,0.16,111021,1420,1,Retail and Wholesale Trade Managers,G,1G
+Gaming Managers,0.091,119071,1431,1,"Sports, Recreation and Cultural Centre Managers",R,1R
+"Managers, All Other",0.25,119199,1431,1,"Sports, Recreation and Cultural Centre Managers",R,1R
+"Managers, All Other",0.25,119199,1439,1,Sports Managers Not Elsewhere Classified,R,1R
+Astronomers,0.041,192011,2111,2,Physicists and Astronomers,M,2M
+"Physicists, label 0",0.1,192012,2111,2,Physicists and Astronomers,M,2M
+"Physical Scientists, All Other",0.43,192099,2111,2,Physicists and Astronomers,M,2M
+Atmospheric and Space Scientists,0.67,192021,2112,2,Meteorologists,M,2M
+"Physical Scientists, All Other",0.43,192099,2112,2,Meteorologists,M,2M
+Chemists,0.1,192031,2113,2,Chemists,M,2M
+Material Scientists,0.021,192032,2113,2,Chemists,M,2M
+"Physical Scientists, All Other",0.43,192099,2113,2,Chemists,M,2M
+"Geoscientists, Except Hydrologists and Geographers",0.63,192042,2114,2,Geologists and Geophysicists,M,2M
+Hydrologists,0.014,192043,2114,2,Geologists and Geophysicists,M,2M
+"Physical Scientists, All Other",0.43,192099,2114,2,Geologists and Geophysicists,M,2M
+Actuaries,0.21,152011,2120,2,"Mathematicians, Actuaries and Statisticians ",K,2K
+Mathematicians,0.047,152021,2120,2,"Mathematicians, Actuaries and Statisticians ",M,2M
+Operations Research Analyst,0.035,152031,2120,2,"Mathematicians, Actuaries and Statisticians ",M,2M
+Statisticians,0.22,152041,2120,2,"Mathematicians, Actuaries and Statisticians ",M,2M
+Survey Researchers,0.23,193022,2120,2,"Mathematicians, Actuaries and Statisticians ",M,2M
+Animal Scientists,0.061,191011,2131,2,"Biologists, Botanists, Zoologists and Related Professionals",M,2M
+Food Scientists and Technologists,0.077,191012,2131,2,"Biologists, Botanists, Zoologists and Related Professionals",M,2M
+Soil and Plant Scientists,0.021,191013,2131,2,"Biologists, Botanists, Zoologists and Related Professionals",M,2M
+Biochemists and Biophysicists,0.027,191021,2131,2,"Biologists, Botanists, Zoologists and Related Professionals",M,2M
+Microbiologists,0.012,191022,2131,2,"Biologists, Botanists, Zoologists and Related Professionals",M,2M
+"Zoologists and Wildlife Biologists, label 0",0.3,191023,2131,2,"Biologists, Botanists, Zoologists and Related Professionals",M,2M
+"Biological Scientists, All Other",0.015,191029,2131,2,"Biologists, Botanists, Zoologists and Related Professionals",M,2M
+Epidemiologists,0.2,191041,2131,2,"Biologists, Botanists, Zoologists and Related Professionals",M,2M
+"Medical Scientists, Except Epidemiologists",0.0045,191042,2131,2,"Biologists, Botanists, Zoologists and Related Professionals",M,2M
+-,-,191099,2131,2,"Biologists, Botanists, Zoologists and Related Professionals",-,2-
+Soil and Plant Scientists,0.021,191013,2132,2,"Farming, Forestry and Fisheries Advisers",A,2A
+Foresters,0.0081,191032,2132,2,"Farming, Forestry and Fisheries Advisers",A,2A
+Farm and Home Management Advisors,0.0075,259021,2132,2,"Farming, Forestry and Fisheries Advisers",A,2A
+Conservation Scientists,0.016,191031,2133,2,Environmental Protection Professionals,E,2E
+"Environmental Scientists and Specialists, Including Health",0.033,192041,2133,2,Environmental Protection Professionals,M,2M
+Industrial Engineers,0.029,172112,2141,2,Industrial and Production Engineers,C,2C
+"Civil Engineers, label 0",0.019,172051,2142,2,Civil Engineers,F,2F
+Environmental Engineers,0.018,172081,2143,2,Environmental Engineers,E,2E
+Aerospace Engineers,0.017,172011,2144,2,Mechanical Engineers,C,2C
+Agricultural Engineers,0.49,172021,2144,2,Mechanical Engineers,C,2C
+Marine Engineers and Naval Architects,0.01,172121,2144,2,Mechanical Engineers,C,2C
+Mechanical Engineers,0.011,172141,2144,2,Mechanical Engineers,C,2C
+Chemical Engineers,0.017,172041,2145,2,Chemical Engineers,C,2C
+Materials Engineers,0.021,172131,2146,2,"Mining Engineers, Metallurgists and Related Professionals ",B,2B
+"Mining and Geological Engineers, Including Mining Safety Engineers",0.14,172151,2146,2,"Mining Engineers, Metallurgists and Related Professionals ",B,2B
+Petroleum Engineers,0.16,172171,2146,2,"Mining Engineers, Metallurgists and Related Professionals ",B,2B
+Material Scientists,0.021,192032,2146,2,"Mining Engineers, Metallurgists and Related Professionals ",B,2B
+Biomedical Engineers,0.037,172031,2149,2,Engineering Professionals Not Elsewhere Classified,M,2M
+"Health and Safety Engineers, Except Mining Safety Engineers and Inspectors",0.028,172111,2149,2,Engineering Professionals Not Elsewhere Classified,O,2O
+Materials Engineers,0.021,172131,2149,2,Engineering Professionals Not Elsewhere Classified,C,2C
+Nuclear Engineers,0.07,172161,2149,2,Engineering Professionals Not Elsewhere Classified,D,2D
+"Engineers, All Other",0.014,172199,2149,2,Engineering Professionals Not Elsewhere Classified,C,2C
+"Electrical Engineers, label 0",0.1,172071,2151,2,Electrical Engineers,D,2D
+Computer Hardware Engineers,0.22,172061,2152,2,Electronics Engineers,C,2C
+"Electronics Engineers, Except Computer",0.025,172072,2152,2,Electronics Engineers,C,2C
+"Electronics Engineers, Except Computer",0.025,172072,2153,2,Telecommunications Engineers,C,2C
+"Architects, Except Landscape and Naval",0.018,171011,2161,2,Building Architects,M,2M
+"Landscape Architects, label 0",0.045,171012,2162,2,Landscape Architects,N,2N
+Commercial and Industrial Designers,0.037,271021,2163,2,Product and Garment Designers,M,2M
+"Fashion Designers, label 0",0.021,271022,2163,2,Product and Garment Designers,M,2M
+-,-,271029,2163,2,Product and Garment Designers,-,2-
+Urban and Regional Planners,0.13,193051,2164,2,Town and Traffic Planners,H,2H
+Cartographers and Photogrammetrists,0.88,171021,2165,2,Cartographers and Surveyors,M,2M
+"Surveyors, label 1",0.38,171022,2165,2,Cartographers and Surveyors,M,2M
+Multimedia Artists and Animators,0.015,271014,2166,2,Graphic and Multimedia Designers,M,2M
+Graphic Designers,0.082,271024,2166,2,Graphic and Multimedia Designers,M,2M
+-,-,291062,2211,2,Generalist Medical Practitioners,-,2-
+-,-,291063,2211,2,Generalist Medical Practitioners,-,2-
+-,-,291065,2211,2,Generalist Medical Practitioners,-,2-
+-,-,291069,2211,2,Generalist Medical Practitioners,-,2-
+Physicians and Surgeons -label 0,0.0042,291061,2212,2,Specialist Medical Practitioners,Q,2Q
+Physicians and Surgeons -label 0,0.0042,291064,2212,2,Specialist Medical Practitioners,Q,2Q
+Physicians and Surgeons -label 0,0.0042,291066,2212,2,Specialist Medical Practitioners,Q,2Q
+Physicians and Surgeons -label 0,0.0042,291067,2212,2,Specialist Medical Practitioners,Q,2Q
+Physicians and Surgeons -label 0,0.0042,291069,2212,2,Specialist Medical Practitioners,Q,2Q
+"Registered Nurses, label 0",0.009,291141,2221,2,Nursing Professionals,Q,2Q
+"Registered Nurses, label 0",0.009,291151,2221,2,Nursing Professionals,Q,2Q
+"Registered Nurses, label 0",0.009,291171,2221,2,Nursing Professionals,Q,2Q
+-,-,291161,2222,2,Midwifery Professionals,-,2-
+"Health Diagnosing and Treating Practitioners, All Other",0.02,291199,2230,2,Traditional and Complementary Medicine Professionals,Q,2Q
+Physician Assistants,0.14,291071,2240,2,Paramedical Practitioners,Q,2Q
+Veterinarians,0.038,291131,2250,2,Veterinarians,M,2M
+"Dentists, General -Label 0",0.0044,291021,2261,2,Dentists,Q,2Q
+Oral and Maxillofacial Surgeons,0.0036,291022,2261,2,Dentists,Q,2Q
+Orthodontists,0.023,291023,2261,2,Dentists,Q,2Q
+Prosthodontists,0.055,291024,2261,2,Dentists,Q,2Q
+-,-,291029,2261,2,Dentists,-,2-
+Pharmacists,0.012,291051,2262,2,Pharmacists,Q,2Q
+Health Educators,0.045,211091,2263,2,Environmental and Occupational Health and Hygiene Professionals,Q,2Q
+Occupational Health and Safety Specialists,0.17,299011,2263,2,Environmental and Occupational Health and Hygiene Professionals,Q,2Q
+Physical Therapists,0.021,291123,2264,2,Physiotherapists,Q,2Q
+-,-,291128,2264,2,Physiotherapists,-,2-
+Dieticians and Nutritionists,0.0039,291031,2265,2,Dieticians and Nutritionists,Q,2Q
+Speech-Language Pathologists,0.0064,291127,2266,2,Audiologists and Speech Therapists,Q,2Q
+Audiologists,0.0033,291181,2266,2,Audiologists and Speech Therapists,Q,2Q
+Optometrists,0.14,291041,2267,2,Optometrists and Ophthalmic Opticians,Q,2Q
+Chiropractors,0.027,291011,2269,2,Health Professionals Not Elsewhere Classified,Q,2Q
+Podiatrists,0.0046,291081,2269,2,Health Professionals Not Elsewhere Classified,Q,2Q
+Occupational Therapists,0.0035,291122,2269,2,Health Professionals Not Elsewhere Classified,Q,2Q
+Recreational Therapists,0.0028,291125,2269,2,Health Professionals Not Elsewhere Classified,Q,2Q
+"Healthcare Practitioners and Technical Workers, All Other, label 0",0.055,291129,2269,2,Health Professionals Not Elsewhere Classified,Q,2Q
+"Health Diagnosing and Treating Practitioners, All Other",0.02,291199,2269,2,Health Professionals Not Elsewhere Classified,Q,2Q
+-,-,299092,2269,2,Health Professionals Not Elsewhere Classified,Q,2Q
+Postsecondary Teachers,0.032,251000,2310,2,University and Higher Education Teachers,P,2P
+-,-,251194,2320,2,Vocational Education Teachers,P,2P
+"Career/Technical Education Teachers, Middle School",0.26,252023,2320,2,Vocational Education Teachers,P,2P
+"Career/Technical Education Teachers, Secondary School",0.0088,252032,2320,2,Vocational Education Teachers,P,2P
+"Secondary School Teachers, Except Special and Career/Technical Education",0.0078,252031,2330,2,Secondary Education Teachers,P,2P
+"Elementary School Teacher, Except Special Education",0.0044,252021,2341,2,Primary School Teachers,P,2P
+"Middle School Teachers, Excepts Special and Career/Technical Education",0.17,252022,2341,2,Primary School Teachers,P,2P
+"Preschool Teachers, Except Special Education, label 0",0.0073,252011,2342,2,Early Childhood Educators,P,2P
+"Kindergarten Teachers, Except Education",0.15,252012,2342,2,Early Childhood Educators,P,2P
+Instructional Coordinators,0.0042,259031,2351,2,Education Methods Specialists,P,2P
+-,-,252051,2352,2,Special Needs Teachers,-,2-
+-,-,252052,2352,2,Special Needs Teachers,-,2-
+"Special Education Teachers, Middle School",0.016,252053,2352,2,Special Needs Teachers,P,2P
+"Special Education Teachers, Secondary School",0.0077,252054,2352,2,Special Needs Teachers,P,2P
+-,-,252059,2352,2,Special Needs Teachers,-,2-
+Adult Basic and Secondary Education and Literacy Teachers and Instructors,0.19,253011,2353,2,Other Language Teachers,P,2P
+Self-Enrichment Education Teachers,0.13,253021,2353,2,Other Language Teachers,P,2P
+-,-,253099,2353,2,Other Language Teachers,-,2-
+Self-Enrichment Education Teachers,0.13,253021,2354,2,Other Music Teachers,P,2P
+Self-Enrichment Education Teachers,0.13,253021,2355,2,Other Arts Teachers,P,2P
+-,-,253099,2355,2,Other Arts Teachers,-,2-
+Training and Development Specialists,0.014,131151,2356,2,Information Technology Trainers,P,2P
+"Educational, Guidance, School, and Vocational Counsellors",0.0085,211012,2359,2,Teaching Professionals Not Elsewhere Classified,P,2P
+"Teachers and Instructors, All Other",0.0095,253099,2359,2,Teaching Professionals Not Elsewhere Classified,P,2P
+"Accountants and Auditors, label 1",0.94,132011,2411,2,Accountants,M,2M
+Budget Analysts,0.94,132031,2411,2,Accountants,M,2M
+Tax Preparers,0.99,132082,2411,2,Accountants,M,2M
+Financial Analysts,0.23,132051,2412,2,Financial and Investment Advisers,K,2K
+Personal Financial Advisors,0.58,132052,2412,2,Financial and Investment Advisers,K,2K
+"Credit Analysts, label 1",0.98,132041,2413,2,Financial Analysts,K,2K
+Financial Analysts,0.23,132051,2413,2,Financial Analysts,K,2K
+Financial Examiners,0.17,132061,2413,2,Financial Analysts,K,2K
+Logisticians,0.012,131081,2421,2,Management and Organization Analysts,M,2M
+Management Analysts,0.13,131111,2421,2,Management and Organization Analysts,M,2M
+"Business Operations Specialists, All Other",0.23,131199,2422,2,Policy Administration Professionals,N,2N
+"Business Operations Specialists, All Other",0.23,131071,2423,2,Personnel and Careers Professionals - Real Estate,L,2L
+"Business Operations Specialists, All Other",0.23,131075,2423,2,Personnel and Careers Professionals -Accommodation and Food Service,I,2I
+"Compensation, Benefits, and Job Analysis Specialists",0.47,131141,2423,2,Personnel and Careers Professionals,N,2N
+"Educational, Guidance, School, and Vocational Counsellors",0.0085,211012,2423,2,Personnel and Careers Professionals,P,2P
+Training and Development Specialists,0.014,131151,2424,2,Training and Staff Development Professionals,N,2N
+"Market Research Analysts and Marketing Specialists, label 1",0.61,131161,2431,2,Advertising and Marketing Professionals,M,2M
+Writers and Authors,0.038,273043,2431,2,Advertising and Marketing Professionals,R,2R
+Public Relations Specialists,0.18,273031,2432,2,Public Relations Professionals,M,2M
+First-Line Supervisors of Non-Retail Sales Workers,0.075,411012,2433,2,Technical and Medical Sales Professionals (excluding ICT),G,2G
+"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",0.25,414011,2433,2,Technical and Medical Sales Professionals (excluding ICT),G,2G
+First-Line Supervisors of Non-Retail Sales Workers,0.075,411012,2434,2,Information and Communications Technology Sales Professionals,G,2G
+"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",0.25,414011,2434,2,Information and Communications Technology Sales Professionals,G,2G
+Sales Engineers,0.0041,419031,2434,2,Information and Communications Technology Sales Professionals,G,2G
+Computer and Information Research Scientists,0.015,151111,2511,2,Systems Analysts,J,2J
+Computer Systems Analysts,0.0065,151121,2511,2,Systems Analysts,J,2J
+"Software Developers, Applications",0.042,151132,2512,2,Software Developers,J,2J
+"Software Developers, Systems Software",0.13,151133,2512,2,Software Developers,J,2J
+-,-,151134,2513,2,Web and Multimedia Developers,-,2-
+Computer Programmers,0.48,151131,2514,2,Applications Programmers,J,2J
+-,-,151199,2519,2,Software and Applications Developers and Analyst Not Elsewhere Classified,-,2-
+Database Administrators,0.03,151141,2521,2,Database Designers and Administrators,N,2N
+Network and Computer Systems Administrators,0.03,151142,2522,2,Systems Administrators,N,2N
+-,-,151143,2523,2,Computer Network Professionals,-,2-
+-,-,151122,2529,2,Database and Network Professionals Not Elsewhere Classified,-,2-
+-,-,151199,2529,2,Database and Network Professionals Not Elsewhere Classified,-,2-
+Lawyers,0.035,231011,2611,2,Lawyers,M,2M
+"Administrative Law Judges, Adjudicators, and Hearing Officers",0.64,231021,2612,2,Judges,O,2O
+"Judges, Magistrate Judges, and Magistrates, label 0",0.4,231023,2612,2,Judges,O,2O
+"Arbitrators, Mediators, and Conciliators",0.06,231022,2619,2,Legal Professionals Not Elsewhere Classified,M,2M
+Archivists,0.76,254011,2621,2,Archivists and Curators,R,2R
+Curators,0.0068,254012,2621,2,Archivists and Curators,R,2R
+Librarians,0.65,254021,2622,2,Librarians and Related Information Professionals,R,2R
+Audio-Visual and Multimedia Collections Specialists,0.39,259011,2622,2,Librarians and Related Information Professionals,R,2R
+"Economists, label 0",0.43,193011,2631,2,Economists,M,2M
+Sociologists,0.059,193041,2632,2,"Sociologists, Anthropologists and Related Professionals",M,2M
+Anthropologists and Archaeologists,0.0077,193091,2632,2,"Sociologists, Anthropologists and Related Professionals",R,2R
+Geographers,0.25,193092,2632,2,"Sociologists, Anthropologists and Related Professionals",R,2R
+Historians,0.44,193093,2633,2,"Philosophers, Historians and Political Scientists",R,2R
+Political Scientists,0.039,193094,2633,2,"Philosophers, Historians and Political Scientists",M,2M
+"Social Scientists and Related Workers, All Other",0.04,193099,2633,2,"Philosophers, Historians and Political Scientists",M,2M
+"Clinical, Counselling, and Social Psychologists",0.0047,193031,2634,2,Psychologists,Q,2Q
+Industrial-Organizational Psychologists,0.012,193032,2634,2,Psychologists,Q,2Q
+"Psychologists, All Other",0.0043,193039,2634,2,Psychologists,Q,2Q
+"Substance Abuse and Behavioural Disorder Counsellors, label 0",0.033,211011,2635,2,Social Work and Counselling Professionals,Q,2Q
+"Marriage Counsellors, label 0",0.014,211013,2635,2,Social Work and Counselling Professionals,Q,2Q
+Mental Health Counsellors,0.0048,211014,2635,2,Social Work and Counselling Professionals,Q,2Q
+Rehabilitation Counsellors,0.0094,211015,2635,2,Social Work and Counselling Professionals,Q,2Q
+-,-,211019,2635,2,Social Work and Counselling Professionals,-,2-
+"Child, Family, and School Social Workers",0.028,211021,2635,2,Social Work and Counselling Professionals,Q,2Q
+Healthcare Social Workers,0.0035,211022,2635,2,Social Work and Counselling Professionals,Q,2Q
+Mental Health and Substance Abuse Workers,0.0031,211023,2635,2,Social Work and Counselling Professionals,Q,2Q
+-,-,211029,2635,2,Social Work and Counselling Professionals,-,2-
+Probation Officers and Correctional Treatment Specialists,0.25,211092,2635,2,Social Work and Counselling Professionals,Q,2Q
+-,-,211099,2635,2,Social Work and Counselling Professionals,-,2-
+"Clergy, label 0",0.0081,212011,2636,2,Religious Professionals,S,2S
+"Directors, Religious Activities and Education",0.025,212021,2636,2,Religious Professionals,S,2S
+Editors,0.055,273041,2641,2,Authors and Related Writers,R,2R
+"Technical Writers, label 1",0.89,273042,2641,2,Authors and Related Writers,R,2R
+Writers and Authors,0.038,273043,2641,2,Authors and Related Writers,R,2R
+Reporters and Correspondents,0.11,273022,2642,2,Journalists,J,2J
+Editors,0.055,273041,2642,2,Journalists,J,2J
+"Social Scientists and Related Workers, All Other",0.04,193099,2643,2,"Translators, Interpreters, and Other Linguists",M,2M
+Interpreters and Translators,0.38,273091,2643,2,"Translators, Interpreters, and Other Linguists",M,2M
+Craft Artists,0.035,271012,2651,2,Visual Artists,R,2R
+"Fine Artists, Including Painters, Sculptors, and Illustrators",0.042,271013,2651,2,Visual Artists,R,2R
+Music Directors and Composers,0.015,272041,2652,2,"Musicians, Singers, and Composers",R,2R
+Musicians and Singers,0.074,272042,2652,2,"Musicians, Singers, and Composers",R,2R
+Dancers,0.13,272031,2653,2,Dancers and Choreographers,R,2R
+Choreographers,0.004,272032,2653,2,Dancers and Choreographers,R,2R
+Art Directors,0.025,271011,2654,2,"Film, Stage and Related Directors and Producers",R,2R
+Producers and Directors,0.022,272012,2654,2,"Film, Stage and Related Directors and Producers",R,2R
+Film and Video Editors,0.31,274032,2654,2,"Film, Stage and Related Directors and Producers",R,2R
+Actors,0.37,272011,2655,2,Actors,R,2R
+Radio and Television Announcers,0.1,273011,2656,2,"Announcers on Radio, Television and Other Media",J,2J
+Public Address System and Other Announcers,0.72,273012,2656,2,"Announcers on Radio, Television and Other Media",J,2J
+Broadcast News Analysts,0.067,273021,2656,2,"Announcers on Radio, Television and Other Media",J,2J
+-,-,272099,2659,2,Creative and Performing Artists Not Elsewhere Classified,-,2-
+Chemical Technicians,0.57,194031,3111,3,Chemical and Physical Science Technicians,M,3M
+Geological and Petroleum Technicians,0.91,194041,3111,3,Chemical and Physical Science Technicians,B,3B
+"Life, Physical and Social Science Technicians, All Other",0.61,194099,3111,3,Chemical and Physical Science Technicians,M,3M
+"Civil Engineering Technicians, label 1",0.75,173022,3112,3,Civil Engineering Technicians,F,3F
+Surveying and Mapping Technicians,0.96,173031,3112,3,Civil Engineering Technicians,F,3F
+First-Line Supervisors of Fire Fighting and Prevention Workers,0.0036,331021,3112,3,Civil Engineering Technicians,O,3O
+Fire Inspectors and Investigators,0.48,332021,3112,3,Civil Engineering Technicians,O,3O
+Construction and Building Inspectors,0.63,474011,3112,3,Civil Engineering Technicians,F,3F
+Electrical and Electronics Engineering Technicians,0.84,173023,3113,3,Electrical Engineering Technicians,D,3D
+Electro-Mechanical Technicians,0.81,173024,3113,3,Electrical Engineering Technicians,D,3D
+Electrical and Electronics Engineering Technicians,0.84,173023,3114,3,Electronics Engineering Technicians,D,3D
+Aerospace Engineering and Operations Technicians,0.48,173021,3115,3,Mechanical Engineering Technicians,C,3C
+Electro-Mechanical Technicians,0.81,173024,3115,3,Mechanical Engineering Technicians,C,3C
+Mechanical Engineering Technicians,0.38,173027,3115,3,Mechanical Engineering Technicians,C,3C
+"Engineering Technicians, Except Drafters, All Other",0.24,173029,3115,3,Mechanical Engineering Technicians,C,3C
+"Engineering Technicians, Except Drafters, All Other",0.24,173029,3116,3,Chemical Engineering Technicians,C,3C
+"Engineering Technicians, Except Drafters, All Other",0.24,173029,3117,3,Mining and Metallurgical Technicians,B,3B
+Geological and Petroleum Technicians,0.91,194041,3117,3,Mining and Metallurgical Technicians,B,3B
+Architectural and Civil Drafters,0.52,173011,3118,3,Draughtspersons,M,3M
+"Electrical and Electronics Drafters, label 1",0.81,173012,3118,3,Draughtspersons,D,3D
+Mechanical Drafters,0.68,173013,3118,3,Draughtspersons,C,3C
+-,-,173019,3118,3,-,-,3-
+"Fine Artists, Including Painters, Sculptors, and Illustrators",0.042,271013,3118,3,Draughtspersons,R,3R
+Environmental Engineering Technicians,0.25,173025,3119,3,Physical Engineering Science Technicians Not Elsewhere Classified,E,3E
+Industrial Engineering Technicians,0.03,173026,3119,3,Physical Engineering Science Technicians Not Elsewhere Classified,C,3C
+"Engineering Technicians, Except Drafters, All Other",0.24,173029,3119,3,Physical Engineering Science Technicians Not Elsewhere Classified,M,3M
+Nuclear Technicians,0.85,194051,3119,3,Physical Engineering Science Technicians Not Elsewhere Classified,D,3D
+Forensic Science Technicians,0.0095,194092,3119,3,Physical Engineering Science Technicians Not Elsewhere Classified,M,3M
+"Life, Physical and Social Science Technicians, All Other",0.61,194099,3119,3,Physical Engineering Science Technicians Not Elsewhere Classified,M,3M
+First-Line Supervisors of Fire Fighting and Prevention Workers,0.0036,331021,3119,3,Physical Engineering Science Technicians Not Elsewhere Classified,O,3O
+Fire Inspectors and Investigators,0.48,332021,3119,3,Physical Engineering Science Technicians Not Elsewhere Classified,O,3O
+Forest Fire Inspectors and Prevention Specialists,0.048,332022,3119,3,Physical Engineering Science Technicians Not Elsewhere Classified,O,3O
+Traffic Technicians,0.9,536041,3119,3,Physical Engineering Science Technicians Not Elsewhere Classified,H,3H
+First-Line Supervisors of Construction Trades and Extraction Workers,0.17,471011,3121,3,Mining Supervisors,B,3B
+First-Line Supervisors of Production and Operating Workers,0.016,511011,3122,3,Manufacturing Supervisors,C,3C
+First-Line Supervisors of Construction Trades and Extraction Workers,0.17,471011,3123,3,Construction Supervisors,F,3F
+First-Line Supervisors of Production and Operating Workers,0.016,511011,3131,3,Power Production Plant Operators,D,3D
+Nuclear Power Reactor Operators,0.95,518011,3131,3,Power Production Plant Operators,D,3D
+Power Distributors and Dispatchers,0.64,518012,3131,3,Power Production Plant Operators,D,3D
+Power Plant Operators,0.85,518013,3131,3,Power Production Plant Operators,D,3D
+First-Line Supervisors of Production and Operating Workers,0.016,511011,3132,3,Incinerator and Water Treatment Plant Operators,E,3E
+Water and Wastewater Treatment Plant Systems Operators,0.61,518031,3132,3,Incinerator and Water Treatment Plant Operators,E,3E
+"Plant and System Operators, All Other",0.86,518099,3132,3,Incinerator and Water Treatment Plant Operators,E,3E
+"Pump Operators, Except Wellhead Pumpers",0.9,537072,3132,3,Incinerator and Water Treatment Plant Operators,E,3E
+Chemical Plant and System Operators,0.85,518091,3133,3,Chemical Processing Plant Controllers,C,3C
+Gas Plant Operators,0.78,518092,3134,3,Petroleum and Natural Gas Refining Plant Operators,B,3B
+"Petroleum Pump System Operators, Refinery Operators, and Gauges",0.71,518093,3134,3,Petroleum and Natural Gas Refining Plant Operators,B,3B
+Gas Compressor and Gas Pumping Station Operators,0.91,537071,3134,3,Petroleum and Natural Gas Refining Plant Operators,B,3B
+"Pump Operators, Except Wellhead Pumpers",0.9,537072,3134,3,Petroleum and Natural Gas Refining Plant Operators,B,3B
+Metal-Refining Furnace Operators and Tenders,0.88,514051,3135,3,Metal Production Process Controllers,C,3C
+"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",0.36,514012,3139,3,Process Control Technicians Not Elsewhere Classified,C,3C
+Biological Technicians,0.3,194021,3141,3,Life Science Technicians (excluding Medical),M,3M
+"Environmental Science and Protection Technicians, Including Health",0.77,194091,3141,3,Life Science Technicians (excluding Medical),O,3O
+Agricultural and Food Science Technicians,0.97,194011,3142,3,Agricultural Technicians,A,3A
+Forest and Conservation Technicians,0.42,194093,3143,3,Forestry Technicians,A,3A
+First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.029,531031,3151,3,Ships’ Engineers,C,3C
+Aircraft Mechanics and Service Technicians,0.71,532022,3151,3,Ships’ Engineers,C,3C
+Ship Engineers,0.041,535031,3151,3,Ships’ Engineers,C,3C
+First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.029,531031,3152,3,Ships' Deck Officers and Pilots,H,3H
+Aircraft Mechanics and Service Technicians,0.71,532022,3152,3,Ships' Deck Officers and Pilots,H,3H
+"Captains, Mates, Pilots of Water Vessels",0.27,535021,3152,3,Ships' Deck Officers and Pilots,H,3H
+First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.029,531031,3153,3,Aircraft Pilots and Related Associate Professionals,H,3H
+"Airline Pilots, Co-pilots, and Flight Engineers",0.18,532011,3153,3,Aircraft Pilots and Related Associate Professionals,H,3H
+Commercial Pilots,0.55,532012,3153,3,Aircraft Pilots and Related Associate Professionals,H,3H
+Aircraft Mechanics and Service Technicians,0.71,532022,3153,3,Aircraft Pilots and Related Associate Professionals,H,3H
+First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.029,531031,3154,3,Air Traffic Controllers,H,3H
+Air Traffic Controllers,0.11,532021,3154,3,Air Traffic Controllers,H,3H
+Aircraft Mechanics and Service Technicians,0.71,532022,3154,3,Air Traffic Controllers,H,3H
+Electrical and Electronics Engineering Technicians,0.84,173023,3155,3,Air Traffic Safety Electronics Technicians,C,3C
+Aircraft Mechanics and Service Technicians,0.71,532022,3155,3,Air Traffic Safety Electronics Technicians,C,3C
+Radiation Therapists,0.34,291124,3211,3,Medical Imaging and Therapeutic Equipment Technicians,Q,3Q
+Diagnostic Medical Sonographers,0.35,292032,3211,3,Medical Imaging and Therapeutic Equipment Technicians,Q,3Q
+Nuclear Medicine Technologists,0.13,292033,3211,3,Medical Imaging and Therapeutic Equipment Technicians,Q,3Q
+-,-,292034,3211,3,Medical Imaging and Therapeutic Equipment Technicians,-,3-
+-,-,292035,3211,3,Medical Imaging and Therapeutic Equipment Technicians,-,3-
+Medical and Clinical Laboratory Technologists,0.9,292011,3212,3,Medical and Pathology Laboratory Technicians,Q,3Q
+Medical and Clinical Laboratory Technicians,0.48,292012,3212,3,Medical and Pathology Laboratory Technicians,Q,3Q
+Pharmacy Technicians,0.92,292052,3213,3,Pharmaceutical Technicians and Assistants,Q,3Q
+Orthotists and Prosthetists,0.0035,292091,3214,3,Medical and Dental Prosthetic Technicians,Q,3Q
+-,-,292092,3214,3,Medical and Dental Prosthetic Technicians,-,3-
+Dental Laboratory Technicians,0.97,519081,3214,3,Medical and Dental Prosthetic Technicians,Q,3Q
+Medical Appliance Technicians,0.45,519082,3214,3,Medical and Dental Prosthetic Technicians,Q,3Q
+Licensed Practical and Licensed Vocational Nurses,0.058,292061,3221,3,Nursing Associate Professionals,Q,3Q
+-,-,299099,3222,3,Midwifery Associate Professionals,-,3-
+-,-,299099,3230,3,Traditional and Complementary Medicine Associate Professionals,-,3-
+Veterinary Technologists and Technicians,0.029,292056,3240,3,Veterinary Technicians and Assistant,M,3M
+Veterinary Assistants and Laboratory Animal Caretakers,0.86,319096,3240,3,Veterinary Technicians and Assistant,M,3M
+Dental Hygienists,0.68,292021,3251,3,Dental Assistants and Therapists,Q,3Q
+Dental Assistants,0.51,319091,3251,3,Dental Assistants and Therapists,Q,3Q
+Medical Records and Health Information Technicians,0.91,292071,3252,3,Medical Records and Health Information Technicians,Q,3Q
+-,-,211094,3253,3,Community Health Workers,-,3-
+"Opticians, Dispensing",0.71,292081,3254,3,Dispensing Opticians,Q,3Q
+"Health Diagnosing and Treating Practitioners, All Other",0.02,291199,3255,3,Physiotherapy Technicians and Assistants,Q,3Q
+Physical Therapists Assistants,0.018,312021,3255,3,Physiotherapy Technicians and Assistants,Q,3Q
+Message Therapists,0.54,319011,3255,3,Physiotherapy Technicians and Assistants,Q,3Q
+-,-,292057,3256,3,Medical Assistants,-,3-
+Medical Assistants,0.3,319092,3256,3,Medical Assistants,Q,3Q
+Occupational Health and Safety Technicians,0.25,299012,3257,3,Environmental and Occupational Health Inspectors and Associates,O,3O
+Agricultural Inspectors,0.94,452011,3257,3,Environmental and Occupational Health Inspectors and Associates,A,3A
+First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.029,531031,3257,3,Environmental and Occupational Health Inspectors and Associates,H,3H
+Transportation Inspectors,0.9,536051,3257,3,Environmental and Occupational Health Inspectors and Associates,H,3H
+Emergency Medical Technicians and Paramedics,0.049,292041,3258,3,Ambulance Workers,Q,3Q
+Respiratory Therapists,0.066,291126,3259,3,Health Associate Professionals Not Elsewhere Classified,Q,3Q
+Cardiovascular Technologists and Technicians,0.23,292031,3259,3,Health Associate Professionals Not Elsewhere Classified,Q,3Q
+Dietetic Technicians,0.13,292051,3259,3,Health Associate Professionals Not Elsewhere Classified,Q,3Q
+Psychiatric Technicians,0.043,292053,3259,3,Health Associate Professionals Not Elsewhere Classified,Q,3Q
+Respiratory Therapy Technicians,0.1,292054,3259,3,Health Associate Professionals Not Elsewhere Classified,Q,3Q
+-,-,292099,3259,3,Health Associate Professionals Not Elsewhere Classified,-,3-
+-,-,299099,3259,3,Health Associate Professionals Not Elsewhere Classified,-,3-
+Occupational Therapy Assistants,0.028,312011,3259,3,Health Associate Professionals Not Elsewhere Classified,Q,3Q
+-,-,319099,3259,3,Health Associate Professionals Not Elsewhere Classified,-,3-
+First-Line Supervisors of Non-Retail Sales Workers,0.075,411012,3311,3,Securities and Finance Dealers and Brokers,K,3K
+"Securities, Commodities, and Financial Services Sales Agents",0.016,413031,3311,3,Securities and Finance Dealers and Brokers,K,3K
+Credit Counsellors,0.04,132071,3312,3,Credit and Loans Officers,K,3K
+"Loan Officers, label 1",0.98,132072,3312,3,Credit and Loans Officers,K,3K
+"Bookkeeping, Accounting, and Auditing Clerk",0.98,433031,3313,3,Accounting Associate Professionals,M,3M
+Mathematical Technicians,0.99,152091,3314,3,"Statistical, Mathematical and Related Associate Professionals",M,3M
+-,-,152099,3314,3,"Statistical, Mathematical and Related Associate Professionals",-,3-
+Social Science Research Assistants,0.65,194061,3314,3,"Statistical, Mathematical and Related Associate Professionals",M,3M
+Statistical Assistants,0.66,439111,3314,3,"Statistical, Mathematical and Related Associate Professionals",M,3M
+"Claims Adjusters, Examiners, and Investigators, label 1",0.98,131031,3315,3,Valuers and Loss Assessors,K,3K
+"Insurance Appraisers, Auto Damage",0.98,131032,3315,3,Valuers and Loss Assessors,K,3K
+Appraisers and Assessors of Real Estate,0.9,132021,3315,3,Valuers and Loss Assessors,K,3K
+"Insurance Underwriters, label 1",0.99,132053,3321,3,Insurance Representatives,K,3K
+First-Line Supervisors of Non-Retail Sales Workers,0.075,411012,3321,3,Insurance Representatives,K,3K
+Insurance Sales Agents,0.92,413021,3321,3,Insurance Representatives,K,3K
+First-Line Supervisors of Non-Retail Sales Workers,0.075,411012,3322,3,Commercial Sales Representatives,G,3G
+-,-,413099,3322,3,Commercial Sales Representatives,-,3-
+"Sales Representatives, Wholesale and Manufacturing, Technical and Scientific Products",0.25,414011,3322,3,Commercial Sales Representatives,G,3G
+"Sales Representatives, Wholesale and Manufacturing, Except Technical and Scientific Products",0.85,414012,3322,3,Commercial Sales Representatives,G,3G
+"Buyers and Purchasing Agents, Farm Products",0.87,131021,3323,3,Buyers,M,3M
+"Wholesale and Retail Buyers, Except Farm Products",0.29,131022,3323,3,Buyers,M,3M
+"Purchasing Agents, Except Wholesale, Retail, and Farm Products",0.77,131023,3323,3,Buyers,M,3M
+First-Line Supervisors of Non-Retail Sales Workers,0.075,411012,3324,3,Trade Brokers,M,3M
+"Securities, Commodities, and Financial Services Sales Agents",0.016,413031,3324,3,Trade Brokers,K,3K
+Cargo and Freight Agent,0.99,435011,3324,3,Trade Brokers,H,3H
+Cargo and Freight Agent,0.99,435011,3331,3,Clearing and Forwarding Agents,H,3H
+"Shipping, Receiving, and Traffic Clerks",0.98,435071,3331,3,Clearing and Forwarding Agents,H,3H
+"Meeting, Convention, and Event Planners, label 0",0.037,131121,3332,3,Conference and Event Planners,N,3N
+-,-,131071,3333,3,Employment Agents and Contractors,-,3-
+"Farm Labour Contractors, label 1",0.97,131074,3333,3,Employment Agents and Contractors,A,3A
+"Property, Real Estate, and Community Association Managers",0.81,119141,3334,3,Real Estate Agents and Property Managers,L,3L
+First-Line Supervisors of Non-Retail Sales Workers,0.075,411012,3334,3,Real Estate Agents and Property Managers,L,3L
+Real Estate Brokers,0.97,419021,3334,3,Real Estate Agents and Property Managers,L,3L
+Real Estate Sales Agents,0.86,419022,3334,3,Real Estate Agents and Property Managers,L,3L
+"Agents and Business Mangers of Artists, Performers, and Athletes",0.24,131011,3339,3,Business Services Agents Not Elsewhere Classified,M,3M
+Cost Estimators,0.57,131051,3339,3,Business Services Agents Not Elsewhere Classified,K,3K
+"Business Operations Specialists, All Other",0.23,131199,3339,3,Business Services Agents Not Elsewhere Classified,S,3S
+Financial Specialists,0.33,132099,3339,3,Business Services Agents Not Elsewhere Classified,K,3K
+First-Line Supervisors of Non-Retail Sales Workers,0.075,411012,3339,3,Business Services Agents Not Elsewhere Classified,G,3G
+Advertising Sales Agent,0.54,413011,3339,3,Business Services Agents Not Elsewhere Classified,M,3M
+-,-,413041,3339,3,Business Services Agents Not Elsewhere Classified,-,3-
+-,-,419099,3339,3,Business Services Agents Not Elsewhere Classified,-,3-
+First-Line Supervisors of Office Administrative Support Workers,0.014,431011,3341,3,Office Supervisors,N,3N
+Legal Secretaries,0.98,436012,3342,3,Legal Secretaries,N,3N
+Court Reporters,0.5,232091,3343,3,Administrative and Executive Secretaries,O,3O
+Executive Secretaries and Executive Administrative Assistants,0.86,436011,3343,3,Administrative and Executive Secretaries,N,3N
+"Medical Transcriptionists, label 1",0.89,319094,3344,3,Medical Secretaries,Q,3Q
+Medical Secretaries,0.81,436013,3344,3,Medical Secretaries,Q,3Q
+"Compliance Officers, label 0",0.08,131041,3351,3,Customs and Border Inspectors,H,3H
+First-Line Supervisors of Police Detectives,0.0044,331012,3351,3,Customs and Border Inspectors,H,3H
+Police and Sheriff's Patrol Officers,0.098,333051,3351,3,Customs and Border Inspectors,H,3H
+"Tax Examiners and Collectors, and Revenue Agents, label 1",0.93,132081,3352,3,Government Tax and Excise Officials,O,3O
+"Compliance Officers, label 0",0.08,131041,3353,3,Government Social Benefits Officials,O,3O
+"Eligibility Interviewers, Government Programs",0.7,434061,3353,3,Government Social Benefits Officials,O,3O
+"Compliance Officers, label 0",0.08,131041,3354,3,Government Licensing Officials,O,3O
+"Court, Municipal, License Clerks",0.46,434031,3354,3,Government Licensing Officials,O,3O
+First-Line Supervisors of Police Detectives,0.0044,331012,3355,3,Police Inspectors and Detectives,O,3O
+Detectives and Criminal Investigators,0.34,333021,3355,3,Police Inspectors and Detectives,O,3O
+Agricultural Inspectors,0.94,452011,3359,3,Government Regulatory Associate Professionals Not Elsewhere Classified,O,3O
+"Judicial Law Clerks, label 1",0.41,231012,3411,3,Legal and Related Associate Professionals,M,3M
+"Paralegals and Legal Assistants, label 1",0.94,232011,3411,3,Legal and Related Associate Professionals,M,3M
+"Title Examiners, Abstractors, and Searchers",0.99,232093,3411,3,Legal and Related Associate Professionals,M,3M
+-,-,232099,3411,3,Legal and Related Associate Professionals,-,3-
+Bailiffs,0.36,333011,3411,3,Legal and Related Associate Professionals,M,3M
+Private Detectives and Investigators,0.31,339021,3411,3,Legal and Related Associate Professionals,M,3M
+Gaming Surveillance Officers and Gaming Investigators,0.95,339031,3411,3,Legal and Related Associate Professionals,R,3R
+Social and Human Service Assistants,0.13,211093,3412,3,Social Work Associate Professionals,Q,3Q
+-,-,212099,3413,3,Religious Associate Professionals,-,3-
+"Athletes and Sports Competitors, label 0",0.28,272021,3421,3,Athletes and Sports Players,R,3R
+Self-Enrichment Education Teachers,0.13,253021,3422,3,"Sports Coaches, Instructors and Officials",R,3R
+Coaches and Scouts,0.013,272022,3422,3,"Sports Coaches, Instructors and Officials",R,3R
+"Umpires, Referees, and Other Sports Officials",0.98,272023,3422,3,"Sports Coaches, Instructors and Officials",R,3R
+Self-Enrichment Education Teachers,0.13,253021,3423,3,Fitness and Recreation Instructors and Programme Leaders,P,3P
+Athletic Trainers,0.0071,299091,3423,3,Fitness and Recreation Instructors and Programme Leaders,R,3R
+First-Line Supervisors of Personal Service Workers,0.076,391021,3423,3,Fitness and Recreation Instructors and Programme Leaders,R,3R
+Fitness Trainers and Aerobics Instructors,0.085,399031,3423,3,Fitness and Recreation Instructors and Programme Leaders,R,3R
+Photographers,0.021,274021,3431,3,Photographers,M,3M
+Interior Designers,0.022,271025,3432,3,Interior Designers and Decorators,M,3M
+Merchandise Displayers and Window Trimmers,0.48,271026,3432,3,Interior Designers and Decorators,G,3G
+Set and Exhibit Designers,0.0055,271027,3432,3,Interior Designers and Decorators,R,3R
+Museum Technicians and Conservators,0.59,254013,3433,3,"Gallery, Museum and Library Technicians",R,3R
+Library Technicians,0.99,254031,3433,3,"Gallery, Museum and Library Technicians",R,3R
+Craft Artists,0.035,271012,3433,3,"Gallery, Museum and Library Technicians",R,3R
+"Chefs and Head Cooks, label 0",0.1,351011,3434,3,Chefs,I,3I
+ First-Line Supervisors of Food Preparation and Serving Workers,0.63,351012,3434,3,Chefs,I,3I
+-,-,271019,3435,3,Other Artistic and Cultural Associate Professionals,-,3-
+-,-,272099,3435,3,Other Artistic and Cultural Associate Professionals,-,3-
+-,-,273099,3435,3,Other Artistic and Cultural Associate Professionals,-,3-
+-,-,274099,3435,3,Other Artistic and Cultural Associate Professionals,-,3-
+Costume Attendants,0.61,393092,3435,3,Other Artistic and Cultural Associate Professionals,R,3R
+-,-,393099,3435,3,Other Artistic and Cultural Associate Professionals,-,3-
+Computer Operators,0.78,439011,3511,3,Information and Communications Technology Operations Technicians,J,3J
+-,-,151151,3512,3,Information and Communications Technology User Support Technicians,-,3-
+-,-,151152,3513,3,Computer Network and Systems Technicians,-,3-
+-,-,151134,3514,3,Web Technicians,-,3-
+Network and Computer Systems Administrators,0.03,151142,3514,3,Web Technicians,J,3J
+Audio and Video Equipment Technicians,0.55,274011,3521,3,Broadcasting and Audio-visual Technicians,J,3J
+Broadcast Technicians,0.74,274012,3521,3,Broadcasting and Audio-visual Technicians,J,3J
+Radio Operators,0.98,274013,3521,3,Broadcasting and Audio-visual Technicians,J,3J
+Sound Engineering Technicians,0.13,274014,3521,3,Broadcasting and Audio-visual Technicians,J,3J
+"Camera Operators, Television, Video, and Motion Picture",0.6,274031,3521,3,Broadcasting and Audio-visual Technicians,J,3J
+-,-,274099,3521,3,Broadcasting and Audio-visual Technicians,-,3-
+Electrical and Electronics Engineering Technicians,0.84,173023,3522,3,Telecommunications Engineering Technicians,J,3J
+Procurement Clerks,0.98,433061,4110,4,General Office Clerks,N,4N
+"Office Clerks, General",0.96,439061,4110,4,General Office Clerks,N,4N
+"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",0.96,436014,4120,4,Secretaries (general) - Agriculture,A,4A
+"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",0.96,436014,4120,4,Secretaries (general) -Mining,B,4B
+"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",0.96,436014,4120,4,Secretaries (general) - Manufacturing,C,4C
+"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",0.96,436014,4120,4,"Secretaries (general) - Electricity, gas, etc.",D,4D
+"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",0.96,436014,4120,4,Secretaries (general) - water supply,E,4E
+"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",0.96,436014,4120,4,Secretaries (general) - Construction,F,4F
+"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",0.96,436014,4120,4,Secretaries (general) - Education,P,4P
+"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",0.96,436014,4119,4,Secretaries (general) - Real Estate,L,4L
+"Secretaries and Administrative Assistants, Except Legal, Medical, and Executive",0.96,436014,4120,4,Secretaries (general),N,4N
+Word Processors and Typists,0.81,439022,4131,4,Typists and Word Processing Operators,N,4N
+"Data Entry Keyers, label 1",0.99,439021,4132,4,Data Entry Clerks,J,4J
+Tellers,0.98,433071,4211,4,Bank Tellers and Related Clerks,K,4K
+Postal Service Clerks,0.95,435051,4211,4,Bank Tellers and Related Clerks,H,4H
+Gaming Supervisors,0.28,391011,4212,4,"Bookmakers, Croupiers and Related Gaming Workers",R,4R
+Slot Supervisors,0.54,391012,4212,4,"Bookmakers, Croupiers and Related Gaming Workers",R,4R
+"Gaming Dealers, label 1",0.96,393011,4212,4,"Bookmakers, Croupiers and Related Gaming Workers",R,4R
+Gaming and Sports Book Writers and Runners,0.91,393012,4212,4,"Bookmakers, Croupiers and Related Gaming Workers",R,4R
+-,-,393019,4212,4,"Bookmakers, Croupiers and Related Gaming Workers",-,4-
+Gaming Cage Workers,0.39,433041,4212,4,"Bookmakers, Croupiers and Related Gaming Workers",R,4R
+-,-,419099,4213,4,Pawnbrokers and Money-lenders,-,4-
+-,-,433099,4213,4,Pawnbrokers and Money-lenders,-,4-
+-,-,131131,4214,4,Debt Collectors and Related Workers,-,4-
+Bill and Account Collectors,0.95,433011,4214,4,Debt Collectors and Related Workers,N,4N
+First-Line Supervisors of Non-Retail Sales Workers,0.075,411012,4221,4,Travel Consultants and Clerks,N,4N
+Travel Agents,0.099,413041,4221,4,Travel Consultants and Clerks,N,4N
+Reservation and Transportation Ticket Agents and Travel Clerks,0.61,434181,4221,4,Travel Consultants and Clerks,N,4N
+Customer Service Representatives,0.55,434051,4222,4,Contact Centre Information Clerks -Agriculture,A,4A
+Customer Service Representatives,0.55,434051,4222,4,Contact Centre Information Clerks - Mining,B,4B
+Customer Service Representatives,0.55,434051,4222,4,Contact Centre Information Clerks- Manufacturing,C,4C
+Customer Service Representatives,0.55,434051,4222,4,Contact Centre Information Clerks - Electrical,D,4D
+Customer Service Representatives,0.55,434051,4222,4,Contact Centre Information Clerks - Water Supply,E,4E
+Customer Service Representatives,0.55,434051,4222,4,Contact Centre Information Clerks - Construction,F,4F
+Customer Service Representatives,0.55,434051,4222,4,Contact Centre Information Clerks - Real Estate,L,4L
+Customer Service Representatives,0.55,434051,4222,4,Contact Centre Information Clerks - Trade Unions,S,4S
+Customer Service Representatives,0.55,434051,4222,4,Contact Centre Information Clerks - general,N,4N
+Receptionists and Information Clerks,0.96,434171,4222,4,Contact Centre Information Clerks,N,4N
+"Switchboard Operators, Including Answering Service, label 1",0.96,432011,4223,4,Telephone Switchboard Operators,J,4J
+Telephone Operators,0.97,432021,4223,4,Telephone Switchboard Operators,J,4J
+"Concierges, label 0",0.21,396012,4224,4,Hotel Receptionists,I,4I
+"Hotel, Motel, and Resort Desk Clerks",0.94,434081,4224,4,Hotel Receptionists,I,4I
+Correspondence Clerks,0.86,434021,4225,4,Inquiry Clerks,N,4N
+Receptionists and Information Clerks,0.96,434171,4225,4,Inquiry Clerks,N,4N
+Receptionists and Information Clerks,0.96,434171,4226,4,Receptionists (general),N,4N
+"Interviewers, Except Eligibility and Loan",0.94,434111,4227,4,Survey and Market Research Interviewers,M,4M
+-,-,432099,4229,4,Client Information Workers Not Classified Elsewhere,-,4-
+"Eligibility Interviewers, Government Programs",0.7,434061,4229,4,Client Information Workers Not Classified Elsewhere,O,4O
+-,-,434199,4229,4,Client Information Workers Not Classified Elsewhere,-,4-
+Billing and Posting Clerks,0.96,433021,4311,4,Accounting and Bookkeeping Clerks,N,4N
+"Bookkeeping, Accounting, and Auditing Clerk",0.98,433031,4311,4,Accounting and Bookkeeping Clerks,N,4N
+-,-,433099,4312,4,"Statistical, Finance and Insurance Clerks",-,4-
+Brokerage Clerks,0.98,434011,4312,4,"Statistical, Finance and Insurance Clerks",L,4L
+Brokerage Clerks,0.98,434011,4312,4,"Statistical, Finance and Insurance Clerks",K,4K
+"Credit Authorizers, Checkers, and Clerks, label 1",0.97,434041,4312,4,"Statistical, Finance and Insurance Clerks",K,4K
+Loan Interviewers and Clerks,0.92,434131,4312,4,"Statistical, Finance and Insurance Clerks",K,4K
+New Accounts Clerks,0.99,434141,4312,4,"Statistical, Finance and Insurance Clerks",K,4K
+Insurance Claims and Policy Processing Clerks,0.98,439041,4312,4,"Statistical, Finance and Insurance Clerks",K,4K
+Payroll and Timekeeping Clerks,0.97,433051,4313,4,Payroll Clerks,N,4N
+"Shipping, Receiving, and Traffic Clerks",0.98,435071,4321,4,Stock Clerks,H,4H
+Stock Clerks and Order Fillers,0.64,435081,4321,4,Stock Clerks,G,4G
+"Weighers, Measurers, Checkers, and Samplers, Recordkeeping",0.95,435111,4321,4,Stock Clerks,N,4N
+"Production, Planning, and Expediting Clerks",0.88,435061,4322,4,Production Clerks - Agriculture,A,4A
+"Production, Planning, and Expediting Clerks",0.88,435061,4322,4,Production Clerks - Mining,B,4B
+"Production, Planning, and Expediting Clerks",0.88,435061,4322,4,Production Clerks - Manufactoring,C,4C
+"Production, Planning, and Expediting Clerks",0.88,435061,4322,4,Production Clerks - Electrical,D,4D
+"Production, Planning, and Expediting Clerks",0.88,435061,4322,4,Production Clerks - Water Supply,E,4E
+"Production, Planning, and Expediting Clerks",0.88,435061,4322,4,Production Clerks - Construction,F,4F
+"Production, Planning, and Expediting Clerks",0.88,435061,4322,4,Production Clerks,N,4N
+"Dispatchers, Except Police, Fire, and Ambulance",0.96,435032,4323,4,Transport Clerks,O,4O
+Library Technicians,0.99,254031,4411,4,Library Clerks,R,4R
+"Library Assistants, Clerical",0.95,434121,4411,4,Library Clerks,R,4R
+"Couriers and Messengers, label 1",0.94,435021,4412,4,Mail Carriers and Sorting Clerks,H,4H
+Postal Service Clerks,0.95,435051,4412,4,Mail Carriers and Sorting Clerks,H,4H
+Postal Service Mail Carriers,0.68,435052,4412,4,Mail Carriers and Sorting Clerks,H,4H
+"Postal Service Mail Sorters, Processors, and Processing Machine Operators",0.79,435053,4412,4,Mail Carriers and Sorting Clerks,H,4H
+"Mail Clerks and Mail Machine Operators, Except Postal Service",0.94,439051,4412,4,Mail Carriers and Sorting Clerks,H,4H
+Proof-readers and Copy Markers,0.84,439081,4413,4,"Coding, Proofreading, and Related Clerks",N,4N
+First-Line Supervisors of Personal Service Workers,0.076,391021,4414,4,Scribes and Related Workers,N,4N
+Personal Care Aides,0.74,399021,4414,4,Scribes and Related Workers,Q,4Q
+"File Clerks, label 1",0.97,434071,4415,4,Filing and Copying Clerks,N,4N
+"Office Machine Operators, Except Computer",0.92,439071,4415,4,Filing and Copying Clerks,N,4N
+"Human Resources Assistants, Except Payroll and Timekeeping, label 1",0.9,434161,4416,4,Personnel Clerks,N,4N
+Correspondence Clerks,0.86,434021,4419,4,Personnel Clerks,N,4N
+Order Clerks,0.98,434151,4419,4,Personnel Clerks,N,4N
+-,-,434199,4419,4,Personnel Clerks,-,4-
+-,-,439199,4419,4,Personnel Clerks,-,4-
+First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.029,531031,5111,5,Travel Attendants and Travel Stewards,H,5H
+"Flight Attendants, label 0",0.35,532031,5111,5,Travel Attendants and Travel Stewards,I,5I
+"Transportation Attendants, Except Flight Attendants",0.75,536061,5111,5,Travel Attendants and Travel Stewards,S,5S
+First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.029,531031,5112,5,Transport Conductors,H,5H
+"Transportation Attendants, Except Flight Attendants",0.75,536061,5112,5,Transport Conductors,H,5H
+First-Line Supervisors of Personal Service Workers,0.076,391021,5113,5,Travel Guides,N,5N
+Tour Guides and Escorts,0.91,397011,5113,5,Travel Guides,N,5N
+Travel Guides,0.057,397012,5113,5,Travel Guides,N,5N
+ First-Line Supervisors of Food Preparation and Serving Workers,0.63,351012,5120,5,Cooks,I,5I
+"Cooks, Institution and Cafeteria",0.83,352012,5120,5,Cooks,I,5I
+"Cooks, Private Household",0.3,352013,5120,5,Cooks,I,5I
+"Cooks, Restaurant",0.96,352014,5120,5,Cooks,I,5I
+"Cooks, Short Order",0.94,352015,5120,5,Cooks,I,5I
+-,-,352019,5120,5,Cooks,-,5-
+"Waiters and Waitresses, label 0",0.94,353031,5131,5,Waiters,I,5I
+"Food Servers, Non restaurant",0.86,353041,5131,5,Waiters,I,5I
+Bartenders,0.77,353011,5132,5,Bartenders,I,5I
+First-Line Supervisors of Personal Service Workers,0.076,391021,5141,5,Hairdressers,S,5S
+Barbers,0.8,395011,5141,5,Hairdressers,S,5S
+"Hairdressers, Hairstylists, and Cosmetologists, label 0",0.11,395012,5141,5,Hairdressers,S,5S
+First-Line Supervisors of Personal Service Workers,0.076,391021,5142,5,Beauticians and Related Workers,S,5S
+"Hairdressers, Hairstylists, and Cosmetologists, label 0",0.11,395012,5142,5,Beauticians and Related Workers,S,5S
+"Makeup Artists, Theatrical Performance",0.01,395091,5142,5,Beauticians and Related Workers,S,5S
+Manicurists and Pedicurists,0.95,395092,5142,5,Beauticians and Related Workers,S,5S
+Shampooers,0.79,395093,5142,5,Beauticians and Related Workers,S,5S
+Skincare Specialists,0.29,395094,5142,5,Beauticians and Related Workers,S,5S
+First-Line Supervisors of Housekeeping and Janitorial Workers,0.94,371011,5151,5,"Cleaning and Housekeeping Supervisors in Offices, Hotels and Other Establishments",N,5N
+First-Line Supervisors of Housekeeping and Janitorial Workers,0.94,371011,5152,5,Domestic Housekeepers,T,5T
+-,-,399099,5152,5,Domestic Housekeepers,T,5T
+"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",0.66,372011,5153,5,Building Caretakers,N,5N
+-,-,272099,5161,5,"Astrologers, Fortune-tellers and Related Workers",-,5-
+First-Line Supervisors of Personal Service Workers,0.076,391021,5162,5,Companions and Valets,T,5T
+Personal Care Aides,0.74,399021,5162,5,Companions and Valets,T,5T
+-,-,399099,5162,5,Companions and Valets,-,5-
+Embalmers,0.54,394011,5163,5,Undertakers and Embalmers,S,5S
+Funeral Attendants,0.37,394021,5163,5,Undertakers and Embalmers,S,5S
+"Funeral Service Managers, Directors, Morticians, and Undertakers",0.2,394031,5163,5,Undertakers and Embalmers,S,5S
+Veterinary Assistants and Laboratory Animal Caretakers,0.86,319096,5164,5,Pet Groomers and Animal Care Workers,M,5M
+First-Line Supervisors of Personal Service Workers,0.076,391021,5164,5,Pet Groomers and Animal Care Workers,M,5M
+Animal Trainers,0.1,392011,5164,5,Pet Groomers and Animal Care Workers,S,5S
+Nonfarm Animal Caretakers,0.82,392021,5164,5,Pet Groomers and Animal Care Workers, S,5 S
+Self-Enrichment Education Teachers,0.13,253021,5165,5,Driving Instructors,P,5P
+"Hosts and Hostesses, Restaurant, Lounge, and Coffee Shop",0.97,359031,5169,5,Personal Services Workers Not Elsewhere Classified,I,5I
+First-Line Supervisors of Personal Service Workers,0.076,391021,5169,5,Agriculture - Personal Services Workers Not Elsewhere Classified,A,5A
+First-Line Supervisors of Personal Service Workers,0.076,391021,5169,5,Mining - Personal Services Workers Not Elsewhere Classified,B,5B
+First-Line Supervisors of Personal Service Workers,0.076,391021,5169,5,Manufacturing - Personal Services Workers Not Elsewhere Classified,C,5C
+First-Line Supervisors of Personal Service Workers,0.076,391021,5169,5,Electricity - Personal Services Workers Not Elsewhere Classified,D,5D
+First-Line Supervisors of Personal Service Workers,0.076,391021,5169,5,Water Supply - Personal Services Workers Not Elsewhere Classified,E,5E
+First-Line Supervisors of Personal Service Workers,0.076,391021,5169,5,Information and Communication - Personal Services Workers Not Elsewhere Classified,J,5J
+First-Line Supervisors of Personal Service Workers,0.076,391021,5169,5,Insurance - Personal Services Workers Not Elsewhere Classified,K,5K
+First-Line Supervisors of Personal Service Workers,0.076,391021,5169,5,Construction - Personal Services Workers Not Elsewhere Classified,F,5F
+First-Line Supervisors of Personal Service Workers,0.076,391021,5169,5,Personal Services Workers Not Elsewhere Classified,T,5T
+Recreation Workers,0.0061,399032,5169,5,Personal Services Workers Not Elsewhere Classified,R,5R
+Residential Advisors,0.064,399041,5169,5,Personal Services Workers Not Elsewhere Classified,L,5L
+-,-,399099,5169,5,Personal Services Workers Not Elsewhere Classified,-,5-
+"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",0.94,419091,5211,5,Stall and Market Salespersons,G,5G
+"Food Servers, No restaurant",0.86,353041,5212,5,Street Food Salespersons,G,5G
+"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",0.94,419091,5212,5,Street Food Salespersons,G,5G
+General and Operations Managers,0.16,111021,5221,5,Shopkeepers,G,5G
+First-Line Supervisors of Retail Sales Workers,0.28,411011,5222,5,Shop Supervisors,G,5G
+Parts Salespersons,0.98,412022,5223,5,Shop Sales Assistants,G,5G
+Retail Salespersons,0.92,412031,5223,5,Shop Sales Assistants,G,5G
+"Cashiers, label 1",0.97,412011,5230,5,Cashiers and Ticket Clerks,G,5G
+Gaming Change Persons and Booth Cashiers,0.83,412012,5230,5,Cashiers and Ticket Clerks,G,5G
+Models,0.98,419012,5241,5,Fashion and Other Models,G,5G
+Demonstrators and Product Promoters,0.51,419011,5242,5,Sales Demonstrators,G,5G
+"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",0.94,419091,5243,5,Door-to-door Salespersons,G,5G
+Telemarketers,0.99,419041,5244,5,Contact Centre Salespersons,G,5G
+First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.029,531031,5245,5,Service Station Attendants,G,5G
+Automotive and Watercraft Service Attendants,0.83,536031,5245,5,Service Station Attendants,G,5G
+"Combined Food Preparation and Serving Workers, Including Fast Food",0.92,353021,5246,5,Food Service Counter Attendants,G,5G
+"Counter Attendants, Cafeteria, Food Concession, and Coffee Shop",0.96,353022,5246,5,Food Service Counter Attendants,G,5G
+Dining Room and Cafeteria Attendants and Bartender Helpers,0.91,359011,5246,5,Food Service Counter Attendants,G,5G
+Counter and Rental Clerks,0.97,412021,5249,5,Sales Workers Not Elsewhere Classified,G,5G
+-,-,419099,5249,5,Sales Workers Not Elsewhere Classified,G,5G
+First-Line Supervisors of Personal Service Workers,0.076,391021,5311,5,Child Care Workers,Q,5Q
+"Childcare Workers, label 0",0.084,399011,5311,5,Child Care Workers,Q,5Q
+Teacher Assistants,0.56,259041,5312,5,Teachers’ Aides,P,5P
+Psychiatric Aides,0.47,311013,5321,5,Health Care Assistants,Q,5Q
+-,-,311014,5321,5,Health Care Assistants,Q,5Q
+Home Health Aides,0.39,311011,5322,5,Home-based Personal Care Workers,Q,5Q
+First-Line Supervisors of Personal Service Workers,0.076,391021,5322,5,Home-based Personal Care Workers,Q,5Q
+Personal Care Aides,0.74,399021,5322,5,Home-based Personal Care Workers,Q,5Q
+-,-,311015,5329,5,Personal Care Workers in Health Services Not Elsewhere Classified,Q,5Q
+Occupational Therapy Aides,0.27,312012,5329,5,Personal Care Workers in Health Services Not Elsewhere Classified,Q,5Q
+Physical Therapists Aides,0.61,312022,5329,5,Personal Care Workers in Health Services Not Elsewhere Classified,Q,5Q
+Dental Assistants,0.51,319091,5329,5,Personal Care Workers in Health Services Not Elsewhere Classified,Q,5Q
+Medical Equipment Preparers,0.78,319093,5329,5,Personal Care Workers in Health Services Not Elsewhere Classified,Q,5Q
+Pharmacy Aides,0.72,319095,5329,5,Personal Care Workers in Health Services Not Elsewhere Classified,Q,5Q
+-,-,319097,5329,5,Personal Care Workers in Health Services Not Elsewhere Classified,Q,5Q
+-,-,319099,5329,5,Personal Care Workers in Health Services Not Elsewhere Classified,Q,5Q
+First-Line Supervisors of Fire Fighting and Prevention Workers,0.0036,331021,5411,5,Firefighters,O,5O
+Firefighters,0.17,332011,5411,5,Firefighters,O,5O
+First-Line Supervisors of Police Detectives,0.0044,331012,5412,5,Police Officers,O,5O
+Police and Sheriff's Patrol Officers,0.098,333051,5412,5,Police Officers,O,5O
+Transit and Railroad Police,0.57,333052,5412,5,Police Officers,O,5O
+First-Line Supervisors of Correctional Officers,0.025,331011,5413,5,Prison Guards,O,5O
+Correctional Officers and Jailors,0.6,333012,5413,5,Prison Guards,O,5O
+-,-,331099,5414,5,Security Guards,O,5O
+Gaming Surveillance Officers and Gaming Investigators,0.95,339031,5414,5,Security Guards,O,5O
+Security Guards,0.84,339032,5414,5,Security Guards,O,5O
+-,-,339093,5414,5,Security Guards,-,5-
+-,-,331099,5419,5,Protective Services Not Elsewhere Classified,-,5-
+Fish and Game Wardens,0.08,333031,5419,5,Protective Services Not Elsewhere Classified,O,5O
+Parking Enforcement Workers,0.84,333041,5419,5,Protective Services Not Elsewhere Classified,O,5O
+Animal Control Workers,0.21,339011,5419,5,Protective Services Not Elsewhere Classified,O,5O
+Crossing Guards,0.49,339091,5419,5,Protective Services Not Elsewhere Classified,O,5O
+"Lifeguards, Ski Patrol, and Other Recreational Protective Service Workers",0.67,339092,5419,5,Protective Services Not Elsewhere Classified,O,5O
+-,-,339099,5419,5,Protective Services Not Elsewhere Classified,-,5-
+"Police, Fire, and Ambulance Dispatchers",0.49,435031,5419,5,Protective Services Not Elsewhere Classified,O,5O
+"First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.57,451011,6111,6,Agriculture Retail,G,6G
+"First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.57,451011,6111,6,Agriculture Food Service,I,6I
+"First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.57,451011,6111,6,Agriculture Public Admin,O,6O
+"First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.57,451011,6111,6,Agriculture Education,P,6P
+"First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.57,451011,6111,6,Agriculture Recreation,R,6R
+"First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.57,451011,6111,6,"Agriculture Trade Unions, Embalming",S,6S
+"First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.57,451011,6111,6,Field Crop and Vegetable Growers,A,6A
+-,-,452091,6111,6,Field Crop and Vegetable Growers,-,6-
+"First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.57,451011,6112,6,Tree and Shrub Crop Growers,A,6A
+-,-,452091,6112,6,Tree and Shrub Crop Growers,-,6-
+"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",0.57,371012,6113,6,Gardeners; Horticultural and Nursery Growers,N,6N
+Tree Trimmers and Pruners,0.77,373013,6113,6,Gardeners; Horticultural and Nursery Growers,N,6N
+-,-,452091,6113,6,Gardeners; Horticultural and Nursery Growers,-,6-
+"First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.57,451011,6114,6,Mixed Crop Growers,A,6A
+-,-,452091,6114,6,Mixed Crop Growers,-,6-
+"First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.57,451011,6121,6,Livestock and Dairy Producers,C,6C
+Animal Breeders,0.95,452021,6121,6,Livestock and Dairy Producers,A,6A
+"First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.57,451011,6122,6,Poultry Producers,C,6C
+Animal Breeders,0.95,452021,6122,6,Poultry Producers,A,6A
+"First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.57,451011,6123,6,Apiarists and Seri culturists,C,6C
+Animal Breeders,0.95,452021,6123,6,Apiarists and Seri culturists,A,6A
+"First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.57,451011,6129,6,Animal Producers Not Elsewhere Classified,C,6C
+Animal Breeders,0.95,452021,6129,6,Animal Producers Not Elsewhere Classified,A,6A
+"First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.57,451011,6130,6,Mixed Crop and Animal Producers,C,6C
+Animal Breeders,0.95,452021,6130,6,Mixed Crop and Animal Producers,A,6A
+-,-,452091,6130,6,Mixed Crop and Animal Producers,-,6-
+"First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.57,451011,6210,6,Forestry and Related Workers,A,6A
+Forest and Conservation Workers,0.87,454011,6210,6,Forestry and Related Workers,A,6A
+Fallers,0.76,454021,6210,6,Forestry and Related Workers,A,6A
+Logging Equipment Operators,0.79,454022,6210,6,Forestry and Related Workers,A,6A
+Log Graders and Scalers,0.97,454023,6210,6,Forestry and Related Workers,A,6A
+-,-,454029,6210,6,Forestry and Related Workers,-,6-
+"First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.57,451011,6221,6,Aquaculture Workers,C,6C
+Animal Breeders,0.95,452021,6221,6,Aquaculture Workers,A,6A
+"First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.57,451011,6222,6,Inland and Coastal Waters Fishery Workers,C,6C
+Fishers and Related Fishing Workers,0.83,453011,6222,6,Inland and Coastal Waters Fishery Workers,A,6A
+"First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.57,451011,6223,6,Deep-sea Fishery Workers,C,6C
+Fishers and Related Fishing Workers,0.83,453011,6223,6,Deep-sea Fishery Workers,A,6A
+"First-Line Supervisors of Farming, Fishing, and Forestry Workers",0.57,451011,6224,6,Hunters and Trappers,C,6C
+"Hunters and Trappers, label 0",0.77,453021,6224,6,Hunters and Trappers,A,6A
+-,-,452092,6310,6,Subsistence Crop Farmers,-,6-
+-,-,452093,6320,6,Subsistence Livestock Farmers,-,6-
+-,-,452092,6330,6,Subsistence Mixed Crop and Livestock Farmers,-,6-
+-,-,452093,6330,6,Subsistence Mixed Crop and Livestock Farmers,-,6-
+Fishers and Related Fishing Workers,0.82,453011,6340,6,"Subsistence Fishers, Hunters, Trappers, and Gatherers",T,6T
+"Hunters and Trappers, label 0",0.77,453021,6340,6,"Subsistence Fishers, Hunters, Trappers, and Gatherers",T,6T
+Construction Managers,0.071,119021,7111,7,House Builders -Insurance,K,7K
+Construction Managers,0.071,119021,7111,7,House Builders - Real Estate,L,7L
+Construction Managers,0.071,119021,7111,7,House Builders,T,7T
+Construction Managers,0.071,119021,7111,7,House Builders,F,7F
+Brick masons and Block mason,0.82,472021,7112,7,Bricklayers and Related Workers,F,7F
+"Refractory Materials Repairers, Except Brick mason",0.82,499045,7112,7,Bricklayers and Related Workers,F,7F
+Stonemasons,0.89,472022,7113,7,"Stonemasons, Stone Cutters, Splitters, Carvers",F,7F
+Segmental Pavers,0.83,474091,7113,7,"Stonemasons, Stone Cutters, Splitters, Carvers",F,7F
+Cement Masons and Concrete Finishers,0.94,472051,7114,7,"Concrete Placers, Concrete Finishers and Related Workers",F,7F
+Terrazzo Workers and Finishers,0.88,472053,7114,7,"Concrete Placers, Concrete Finishers and Related Workers",F,7F
+Segmental Pavers,0.83,474091,7114,7,"Concrete Placers, Concrete Finishers and Related Workers",F,7F
+Carpenters,0.72,472031,7115,7,Carpenters and Joiners,F,7F
+-,-,472231,7119,7,Building Frame and Related Trades Workers Not Elsewhere Classified,-,7-
+Fence Erectors,0.92,474031,7119,7,Building Frame and Related Trades Workers Not Elsewhere Classified,E,7E
+Hazardous Material Remover Workers,0.53,474041,7119,7,Building Frame and Related Trades Workers Not Elsewhere Classified,E,7E
+-,-,474099,7119,7,Building Frame and Related Trades Workers Not Elsewhere Classified,-,7-
+Manufactured Building and Mobile Home Installers,0.18,499095,7119,7,Building Frame and Related Trades Workers Not Elsewhere Classified,F,7F
+Roofers,0.9,472181,7121,7,Roofers,F,7F
+Carpet Installers,0.87,472041,7122,7,Floor Layers and Tile Setters,F,7F
+"Floor Layers, Except Carpet, Wood, and Hard Tiles",0.79,472042,7122,7,Floor Layers and Tile Setters,F,7F
+Floor Sanders and Finishers,0.87,472043,7122,7,Floor Layers and Tile Setters,F,7F
+Tile and Marble Setters,0.75,472044,7122,7,Floor Layers and Tile Setters,F,7F
+Drywall and Ceiling Tile Installers,0.79,472081,7123,7,Plasterers,F,7F
+Tapers,0.62,472082,7123,7,Plasterers,F,7F
+Plasterers and Stucco Masons,0.84,472161,7123,7,Plasterers,F,7F
+"Insulation Workers, Floor, Ceiling, and Wall",0.83,472131,7124,7,Insulation Workers,F,7F
+"Insulation Workers, Mechanical",0.64,472132,7124,7,Insulation Workers,F,7F
+Glaziers,0.73,472121,7125,7,Glaziers,F,7F
+Pipelayers,0.62,472151,7126,7,Plumbers and Pipe Fitters,F,7F
+"Plumbers, Pipefitters, and Steamfitters, label 0",0.35,472152,7126,7,Plumbers and Pipe Fitters,F,7F
+"First-Line Supervisors of Mechanics, Installers, and Repairers",0.003,491011,7127,7,Air Conditioning and Refrigeration Mechanics,D,7D
+"Heating, Air Conditioning, and Refrigeration Mechanics and Installers",0.65,499021,7127,7,Air Conditioning and Refrigeration Mechanics,D,7D
+"Painters, Construction and Maintenance",0.75,472141,7131,7,Painters and Related Workers,F,7F
+Paperhangers,0.87,472142,7131,7,Painters and Related Workers,F,7F
+"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",0.91,519121,7132,7,Spray Painters and Varnishes,F,7F
+"Painters, Transportation Equipment",0.69,519122,7132,7,Spray Painters and Varnishes,F,7F
+-,-,372019,7133,7,Building Structure Cleaners,-,7-
+Foundry Mold and Coremakers,0.67,514071,7211,7,Metal Moulders and Coremakers,F,7F
+"Molding, Core making, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",0.95,514072,7211,7,Metal Moulders and Coremakers,F,7F
+"Welders, Cutters, Solderers, and Brazers",0.94,514121,7212,7,Welders and Flame Cutters,F,7F
+"Welding, Soldering, Brazing Machine Setters, Operators, and Tenders",0.61,514122,7212,7,Welders and Flame Cutters,F,7F
+Boilermakers,0.68,472011,7213,7,Sheet Metal Workers,F,7F
+"Sheet Metal Workers, label 1",0.82,472211,7213,7,Sheet Metal Workers,F,7F
+"Layout Workers, Metal and Plastic",0.84,514192,7213,7,Sheet Metal Workers,F,7F
+Reinforcing Iron and Rebar Workers,0.9,472171,7214,7,Structural Metal Preparers and Erectors,F,7F
+Structural Iron and Steel Workers,0.83,472221,7214,7,Structural Metal Preparers and Erectors,F,7F
+Structural Metal Fabricators and Fitters,0.41,512041,7214,7,Structural Metal Preparers and Erectors,F,7F
+Riggers,0.89,499096,7215,7,Riggers and Cable Splicers,F,7F
+"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",0.93,514022,7221,7,"Blacksmiths, Hammersmiths and Forging Press Workers",F,7F
+-,-,514199,7221,7,"Blacksmiths, Hammersmiths and Forging Press Workers",-,7-
+Locksmiths and Safe Repairers,0.77,499094,7222,7,Toolmakers and Related Workers,C,7C
+"Computer Numerically Controlled Machine Tool Programmers, Metal and Plastic",0.36,514012,7222,7,Toolmakers and Related Workers,C,7C
+"Model Makers, Metal and Plastic",0.93,514061,7222,7,Toolmakers and Related Workers,C,7C
+"Patternmakers, Metal and Plastic",0.9,514062,7222,7,Toolmakers and Related Workers,C,7C
+Tool and Die Makers,0.84,514111,7222,7,Toolmakers and Related Workers,C,7C
+"Layout Workers, Metal and Plastic",0.84,514192,7222,7,Toolmakers and Related Workers,C,7C
+"Computer-Controlled Machine Tool Operators, Metal and Plastic",0.86,514011,7223,7,Metal Working Machine Tool Setters and Operators,C,7C
+"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",0.91,514021,7223,7,Metal Working Machine Tool Setters and Operators,C,7C
+"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",0.93,514022,7223,7,Metal Working Machine Tool Setters and Operators,H,7H
+"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",0.93,514022,7223,7,Metal Working Machine Tool Setters and Operators,C,7C
+"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",0.83,514023,7223,7,Metal Working Machine Tool Setters and Operators,C,7C
+"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",0.78,514031,7223,7,Metal Working Machine Tool Setters and Operators,C,7C
+"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.94,514032,7223,7,Metal Working Machine Tool Setters and Operators,C,7C
+"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.95,514033,7223,7,Metal Working Machine Tool Setters and Operators,C,7C
+"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.84,514034,7223,7,Metal Working Machine Tool Setters and Operators,C,7C
+"Milling and Planning Machine Setters, Operators, and Tenders, Metal and Plastic",0.98,514035,7223,7,Metal Working Machine Tool Setters and Operators,C,7C
+Machinists,0.65,514041,7223,7,Metal Working Machine Tool Setters and Operators,C,7C
+"Multiple Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.91,514081,7223,7,Metal Working Machine Tool Setters and Operators,C,7C
+-,-,514199,7223,7,Metal Working Machine Tool Setters and Operators,C,7C
+"Tool Grinders, Filers, and Sharpeners",0.88,514194,7224,7,"Metal Polishers, Wheel Grinders and Tool Sharpeners",C,7C
+"Grinding and Polishing Workers, Hand",0.97,519022,7224,7,"Metal Polishers, Wheel Grinders and Tool Sharpeners",C,7C
+"First-Line Supervisors of Mechanics, Installers, and Repairers",0.003,491011,7231,7,Motor Vehicle Mechanics and Repairers,G,7G
+Automotive Body and Related Repairers,0.91,493021,7231,7,Motor Vehicle Mechanics and Repairers,G,7G
+Automotive Glass Installers and Repairers,0.55,493022,7231,7,Motor Vehicle Mechanics and Repairers,G,7G
+Automotive Service Technicians and Mechanics,0.59,493023,7231,7,Motor Vehicle Mechanics and Repairers,G,7G
+Bus and Truck Mechanics and Diesel Engine Specialists,0.73,493031,7231,7,Motor Vehicle Mechanics and Repairers,G,7G
+Motorboat Mechanics and Service Technicians,0.66,493051,7231,7,Motor Vehicle Mechanics and Repairers,G,7G
+Motorcycle Mechanics,0.79,493052,7231,7,Motor Vehicle Mechanics and Repairers,G,7G
+Outdoor Power Equipment and Other Small Engine Mechanics,0.93,493053,7231,7,Motor Vehicle Mechanics and Repairers,G,7G
+Recreational Vehicle Service Technicians,0.59,493092,7231,7,Motor Vehicle Mechanics and Repairers,G,7G
+Tire Repairers and Changers,0.7,493093,7231,7,Motor Vehicle Mechanics and Repairers,G,7G
+"First-Line Supervisors of Mechanics, Installers, and Repairers",0.003,491011,7232,7,Aircraft Engine Mechanics and Repairers,C,7C
+Aircraft Mechanics and Service Technicians,0.71,493011,7232,7,Aircraft Engine Mechanics and Repairers,C,7C
+"First-Line Supervisors of Mechanics, Installers, and Repairers",0.003,491011,7233,7,Agricultural and Industrial Machinery Mechanics and Repairers,C,7C
+Farm Equipment Mechanics and Service Technicians,0.75,493041,7233,7,Agricultural and Industrial Machinery Mechanics and Repairers,C,7C
+"Mobile Heavy Equipment Mechanics, Except Engines",0.4,493042,7233,7,Agricultural and Industrial Machinery Mechanics and Repairers,C,7C
+Rail Car Repairers,0.88,493043,7233,7,Agricultural and Industrial Machinery Mechanics and Repairers,C,7C
+Industrial Machinery Mechanics,0.67,499041,7233,7,Agricultural and Industrial Machinery Mechanics and Repairers,C,7C
+"Maintenance Workers, Machinery",0.86,499043,7233,7,Agricultural and Industrial Machinery Mechanics and Repairers - Traiing,P,7P
+"Maintenance Workers, Machinery",0.86,499043,7233,7,Agricultural and Industrial Machinery Mechanics and Repairers,C,7C
+Millwrights,0.59,499044,7233,7,Agricultural and Industrial Machinery Mechanics and Repairers,C,7C
+"Refractory Materials Repairers, Except Brick mason",0.82,499045,7233,7,Agricultural and Industrial Machinery Mechanics and Repairers,C,7C
+-,-,499081,7233,7,Agricultural and Industrial Machinery Mechanics and Repairers,C,7C
+"First-Line Supervisors of Mechanics, Installers, and Repairers",0.003,491011,7234,7,Bicycle and Related Repairers,G,7G
+Bicycle Repairers,0.94,493091,7234,7,Bicycle and Related Repairers,G,7G
+"First-Line Supervisors of Mechanics, Installers, and Repairers",0.003,491011,7311,7,Precision-instrument Makers and Repairers,S,7S
+Camera and Photographic Equipment Repairers,0.97,499061,7311,7,Precision-instrument Makers and Repairers,S,7S
+Medical Equipment Repairers,0.27,499062,7311,7,Precision-instrument Makers and Repairers,S,7S
+Watch Repairers,0.99,499064,7311,7,Precision-instrument Makers and Repairers,S,7S
+-,-,499069,7311,7,Precision-instrument Makers and Repairers,S,7S
+"First-Line Supervisors of Mechanics, Installers, and Repairers",0.003,491011,7312,7,Musical Instrument Makers and Tuners,S,7S
+Musical Instrument Repairers and Tuners,0.91,499063,7312,7,Musical Instrument Makers and Tuners,S,7S
+Jewellers and Precious Stone and Metal Workers,0.95,519071,7313,7,Jewellery and Precious Metal Workers,C,7C
+Craft Artists,0.035,271012,7314,7,Potters and Related Workers,C,7C
+"Molders, Shapers, and Casters, Except Metal and Plastic",0.9,519195,7314,7,Potters and Related Workers,C,7C
+"Grinding and Polishing Workers, Hand",0.97,519022,7315,7,"Glass Makers, Cutters, Grinders and Finishers",C,7C
+"Cutters and Trimmers, Hand",0.64,519031,7315,7,"Glass Makers, Cutters, Grinders and Finishers",C,7C
+"Molders, Shapers, and Casters, Except Metal and Plastic",0.9,519195,7315,7,"Glass Makers, Cutters, Grinders and Finishers",C,7C
+"Painting, Coating, and Decorating Workers",0.92,519123,7316,7,"Sign writers, Decorative Painters, Engravers and Etchers",M,7M
+Etchers and Engravers,0.98,519194,7316,7,"Sign writers, Decorative Painters, Engravers and Etchers",M,7M
+Craft Artists,0.035,271012,7317,7,"Handicraft Workers in Wood, Basketry and Related Materials",R,7R
+-,-,517099,7317,7,"Handicraft Workers in Wood, Basketry and Related Materials",R,7R
+Shoe and Leather Workers and Repairers,0.52,516041,7318,7,"Handicraft Workers Textile, Leather and Related Materials",S,7S
+Craft Artists,0.035,271012,7319,7,Handicraft Workers Not Elsewhere Classified,R,7R
+Desktop Publishers,0.16,439031,7321,7,Pre-press Technicians,N,7N
+Prepress Technicians and Workers,0.97,515111,7321,7,Pre-press Technicians,N,7N
+Printing Press Operators,0.83,515112,7322,7,Printers,C,7C
+Print Binding and Finishing Workers,0.95,515113,7323,7,Print Finishing and Binding Workers,C,7C
+Electricians,0.15,472111,7411,7,Building and Related Electricians,D,7D
+-,-,472231,7411,7,Building and Related Electricians,D,7D
+Elevator Installers and Repairers,0.39,474021,7412,7,Electrical Mechanics and Fitters,D,7D
+"First-Line Supervisors of Mechanics, Installers, and Repairers",0.003,491011,7412,7,Electrical Mechanics and Fitters,D,7D
+"Electric Motor, Power Tool, and Related Repairers",0.76,492092,7412,7,Electrical Mechanics and Fitters,D,7D
+"Electrical and Electronics Installers and Repairers, Transportation Equipment",0.91,492093,7412,7,Electrical Mechanics and Fitters,D,7D
+"Electrical and Electronic Repairers, Commercial and Industrial Equipment",0.41,492094,7412,7,Electrical Mechanics and Fitters,D,7D
+"Electrical and Electronics Repairers, Powerhouse, Substation and Relay",0.38,492095,7412,7,Electrical Mechanics and Fitters,D,7D
+"Electronic Equipment Installers and Repairers, Motor Vehicles",0.61,492096,7412,7,Electrical Mechanics and Fitters,D,7D
+Security and Fire Alarm Systems Installers,0.82,492098,7412,7,Electrical Mechanics and Fitters,D,7D
+Outdoor Power Equipment and Other Small Engine Mechanics,0.93,493053,7412,7,Electrical Mechanics and Fitters,D,7D
+Mechanical Door Repairers,0.91,499011,7412,7,Electrical Mechanics and Fitters,D,7D
+"Control and Valve Installers and Repairers, Except Mechanical Door",0.63,499012,7412,7,Electrical Mechanics and Fitters,D,7D
+Home Appliance Repairers,0.72,499031,7412,7,Electrical Mechanics and Fitters,D,7D
+Signal and Track Switch Repairers,0.9,499097,7412,7,Electrical Mechanics and Fitters,D,7D
+"First-Line Supervisors of Mechanics, Installers, and Repairers",0.003,491011,7413,7,Electrical Line Installers and Repairers ,D,7D
+Electrical Power-Line Installers and Repairers,0.097,499051,7413,7,Electrical Line Installers and Repairers,D,7D
+"First-Line Supervisors of Mechanics, Installers, and Repairers",0.003,491011,7421,7,Electronics Mechanics and Servicers,C,7C
+"Computer, Automated Teller, and Office Machine Repairers",0.74,492011,7421,7,Electronics Mechanics and Servicers,C,7C
+Avionics Technicians,0.7,492091,7421,7,Electronics Mechanics and Servicers,C,7C
+"Electrical and Electronics Installers and Repairers, Transportation Equipment",0.91,492093,7421,7,Electronics Mechanics and Servicers,D,7D
+"Electrical and Electronic Repairers, Commercial and Industrial Equipment",0.41,492094,7421,7,Electronics Mechanics and Servicers,D,7D
+"Electrical and Electronics Repairers, Powerhouse, Substation and Relay",0.38,492095,7421,7,Electronics Mechanics and Servicers,D,7D
+"Electronic Equipment Installers and Repairers, Motor Vehicles",0.61,492096,7421,7,Electronics Mechanics and Servicers,G,7G
+"First-Line Supervisors of Mechanics, Installers, and Repairers",0.003,491011,7422,7,Information and Communications Technology Installers and Servicers,C,7C
+"Computer, Automated Teller, and Office Machine Repairers",0.74,492011,7422,7,Information and Communications Technology Installers and Servicers,J,7J
+"Computer, Automated Teller, and Office Machine Repairers",0.74,492011,7422,7,Information and Communications Technology Installers and Servicers,S,7S
+"Radio, Cellular, and Tower Equipment Installers and Repairs",0.93,492021,7422,7,Information and Communications Technology Installers and Servicers,J,7J
+"Radio, Cellular, and Tower Equipment Installers and Repairs",0.93,492021,7422,7,Information and Communications Technology Installers and Servicers,S,7S
+"Telecommunications Equipment Installers and Repairers, Except Line Installers",0.36,492022,7422,7,Information and Communications Technology Installers and Servicers,J,7J
+"Telecommunications Equipment Installers and Repairers, Except Line Installers",0.36,492022,7422,7,Information and Communications Technology Installers and Servicers,S,7S
+"Electrical and Electronics Installers and Repairers, Transportation Equipment",0.91,492093,7422,7,Information and Communications Technology Installers and Servicers,S,7S
+Electronic Home Entertainment Equipment Installers and Repairers,0.65,492097,7422,7,Information and Communications Technology Installers and Servicers,S,7S
+Telecommunications Line Installers and Repairers,0.49,499052,7422,7,Information and Communications Technology Installers and Servicers,S,7S
+Butchers and Meat Cutters,0.93,513021,7511,7,"Butchers, Fishmongers and Related Preparers",C,7C
+"Meat, Poultry, and Fish Cutters and Trimmers",0.94,513022,7511,7,"Butchers, Fishmongers and Related Preparers",C,7C
+Slaughterers and Meat Packagers ,0.6,513023,7511,7,"Butchers, Fishmongers and Related Preparers",C,7C
+"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",0.91,513091,7511,7,"Butchers, Fishmongers and Related Preparers",C,7C
+Bakers,0.89,513011,7512,7,"Bakers, Pastry-cooks and Confectionery Makers",I,7I
+Food Batch makers,0.7,513092,7513,7,Dairy Products Makers,C,7C
+"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",0.88,519012,7513,7,Dairy Products Makers,C,7C
+Food Cooking Machine Operators and Tenders,0.61,513093,7514,7,"Fruit, Vegetable and Related Preservers",I,7I
+Food Cooking Machine Operators and Tenders,0.61,513093,7514,7,"Fruit, Vegetable and Related Preservers",C,7C
+-,-,513099,7514,7,"Fruit, Vegetable and Related Preservers",C,7C
+Agricultural Inspectors,0.94,452011,7515,7,Food and Beverage Tasters and Graders,O,7O
+"Graders and Sorters, Agricultural Products",0.41,452041,7515,7,Food and Beverage Tasters and Graders,C,7C
+"Graders and Sorters, Agricultural Products",0.41,452041,7516,7,Tobacco Preparers and Tobacco Products Makers,C,7C
+"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",0.93,519041,7516,7,Tobacco Preparers and Tobacco Products Makers,C,7C
+"Molders, Shapers, and Casters, Except Metal and Plastic",0.9,519195,7516,7,Tobacco Preparers and Tobacco Products Makers,C,7C
+"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",0.37,519051,7521,7,Wood Treaters,C,7C
+Adhesive Bonding Machine Operators and Tenders,0.95,519191,7521,7,Wood Treaters,C,7C
+Cabinetmakers and Bench Carpenters,0.92,517011,7522,7,Cabinet-makers and Related Workers,C,7C
+Furniture Finishers,0.87,517021,7522,7,Cabinet-makers and Related Workers,C,7C
+"Model Makers, Wood",0.96,517031,7522,7,Cabinet-makers and Related Workers,C,7C
+"Patternmakers, Wood",0.91,517032,7522,7,Cabinet-makers and Related Workers,R,7R
+"Woodworking Machine Setters, Operators, and Tenders, Except Sawing",0.97,517042,7523,7,Woodworking Machine Tool Setters and Operators,C,7C
+"Tailors, Dressmakers, and Custom Sewers",0.84,516052,7531,7,"Tailors, Dressmakers, Furriers, Hatters ",R,7R
+"Textile Cutting Machine Setters, Operators, and Tenders",0.95,516062,7532,7,Garment and Related Patternmakers and Cutters,C,7C
+Fabric and Apparel Patternmakers,0.0049,516092,7532,7,Garment and Related Patternmakers and Cutters,C,7C
+"Cutters and Trimmers, Hand",0.64,519031,7532,7,Garment and Related Patternmakers and Cutters,C,7C
+"Fabric Menders, Except Garment",0.96,499093,7533,7,"Sewing, Embroidery and Related Workers",S,7S
+Shoe and Leather Workers and Repairers,0.52,516041,7533,7,"Sewing, Embroidery and Related Workers",S,7S
+"Sewers, Hand",0.99,516051,7533,7,"Sewing, Embroidery and Related Workers",M,7M
+Upholsters,0.39,516093,7534,7,Upholsterers and Related Workers,C,7C
+"Graders and Sorters, Agricultural Products",0.41,452041,7535,7,"Pelt Dressers, Tanners, Fellmongers",A,7A
+-,-,516099,7535,7,"Pelt Dressers, Tanners, Fellmongers",-,7-
+Shoe and Leather Workers and Repairers,0.52,516041,7536,7,Shoemakers and Related Workers,F,7F
+Commercial Drivers,0.18,499092,7541,7,Underwater Divers,R,7R
+"Explosives Workers, Ordnance Handling Experts, and Blasters",0.48,475031,7542,7,Shotfirers and Blasters,B,7B
+"Inspectors, Testers, Sorters, Samplers, and Weighers",0.98,519061,7543,7,Product Graders and Testers (excluding Foods and Beverages),O,7O
+"First-Line Supervisors of Landscaping, Lawn Service, and Groundskeeping Workers",0.57,371012,7544,7,Fumigators and Other Pest and Weed Controllers,N,7N
+Pest Control Workers,0.66,372021,7544,7,Fumigators and Other Pest and Weed Controllers,S,7S
+"Pesticide Handlers, Sprayers, and Applicators, Vegetation",0.97,373012,7544,7,Fumigators and Other Pest and Weed Controllers,S,7S
+Floral Designers,0.047,271023,7549,7,Craft and Related Workers Not Elsewhere Classified,M,7M
+Ophthalmic Laboratory Technicians,0.97,519083,7549,7,Craft and Related Workers Not Elsewhere Classified,Q,7Q
+"Earth Drillers, Except Oil and Gas",0.85,475021,8111,8,Miners and Quarriers,B,8B
+Continuous Mining Machine Operators,0.54,475041,8111,8,Miners and Quarriers,B,8B
+Mine Cutting and Channelling Machine Operators,0.59,475042,8111,8,Miners and Quarriers,B,8B
+-,-,475049,8111,8,Miners and Quarriers,-,8-
+"Rock Splitters, Quarry",0.96,475051,8111,8,Miners and Quarriers,B,8B
+"Roof Bolters, Mining",0.49,475061,8111,8,Miners and Quarriers,B,8B
+Excavating and Loading Machine and Dragline Operators,0.94,537032,8111,8,Miners and Quarriers,B,8B
+"Loading Machine Operators, Underground Mining",0.5,537033,8111,8,Miners and Quarriers,B,8B
+"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",0.97,519021,8112,8,Mineral and Stone Processing Plant Operators,B,8B
+"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",0.81,519192,8112,8,Mineral and Stone Processing Plant Operators,B,8B
+"Derrick Operators, Oil and Gas",0.8,475011,8113,8,Well Drillers and Borers and Related Workers,B,8B
+"Rotary Drill Operators, Oil and Gas",0.53,475012,8113,8,Well Drillers and Borers and Related Workers,B,8B
+"Service Unit Operators, Oil, Gas, and Mining",0.93,475013,8113,8,Well Drillers and Borers and Related Workers,B,8B
+"Earth Drillers, Except Oil and Gas",0.85,475021,8113,8,Well Drillers and Borers and Related Workers,B,8B
+"Roustabouts, Oil and Gas",0.68,475071,8113,8,Well Drillers and Borers and Related Workers,B,8B
+Wellhead Pumpers,0.84,537073,8113,8,Well Drillers and Borers and Related Workers,E,8E
+"Plant and System Operators, All Other",0.86,518099,8114,8,Plant Real Estate,L,8L
+"Plant and System Operators, All Other",0.86,518099,8114,8,Plant Security,O,8O
+"Plant and System Operators, All Other",0.86,518099,8114,8,Plant Administration,N,8N
+"Plant and System Operators, All Other",0.86,518099,8114,8,Plant Finance,K,8K
+"Plant and System Operators, All Other",0.86,518099,8114,8,"Cement, Stone and Other Mineral Products Machine Operators",M,8M
+"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",0.97,519021,8114,8,"Cement, Stone and Other Mineral Products Machine Operators",C,8C
+"Mixing and Blending Machine Setters, Operators, and Tenders",0.83,519023,8114,8,"Cement, Stone and Other Mineral Products Machine Operators",C,8C
+"Cutting and Slicing Machine Setters, Operators, and Tenders",0.86,519032,8114,8,"Cement, Stone and Other Mineral Products Machine Operators",C,8C
+"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",0.91,514021,8121,8,Metal Processing Plant Operators,C,8C
+"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",0.83,514023,8121,8,Metal Processing Plant Operators,C,8C
+Metal-Refining Furnace Operators and Tenders,0.88,514051,8121,8,Metal Processing Plant Operators,C,8C
+"Pourers and Casters, Metal",0.87,514052,8121,8,Metal Processing Plant Operators,F,8F
+"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",0.91,514191,8121,8,Metal Processing Plant Operators,C,8C
+"Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic",0.92,514193,8122,8,"Metal Finishing, Plating and Coating Machine Operators",C,8C
+"Coating, Painting, and Spraying Machine Setters, Operators, and Tenders",0.91,519121,8122,8,"Metal Finishing, Plating and Coating Machine Operators",C,8C
+"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",0.81,519192,8122,8,"Metal Finishing, Plating and Coating Machine Operators",C,8C
+Chemical Equipment Operators and Tenders,0.76,519011,8131,8,Chemical Products Plant and Machine Operators,C,8C
+"Separating, Filtering, Clarifying, Precipitating, and Still Machine Setters, Operators, and Tenders",0.88,519012,8131,8,Chemical Products Plant and Machine Operators,C,8C
+"Molders, Shapers, and Casters, Except Metal and Plastic",0.9,519195,8131,8,Chemical Products Plant and Machine Operators,C,8C
+Photographic Process Workers and Processing Machine Operators,0.99,519151,8132,8,Photographic Products Machine Operators,C,8C
+"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",0.97,519021,8141,8,Rubber Products Machine Operators,C,8C
+"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",0.93,519041,8141,8,Rubber Products Machine Operators,C,8C
+"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",0.37,519051,8141,8,Rubber Products Machine Operators,C,8C
+"Molders, Shapers, and Casters, Except Metal and Plastic",0.9,519195,8141,8,Rubber Products Machine Operators,C,8C
+Tire Builders,0.94,519197,8141,8,Rubber Products Machine Operators,C,8C
+Fiberglass Laminators and Fabricators,0.93,512091,8142,8,Plastic Products Machine Operators,C,8C
+"Extruding and Drawing Machine Setters, Operators, and Tenders, Metal and Plastic",0.91,514021,8142,8,Plastic Products Machine Operators,C,8C
+"Forging Machine Setters, Operators, and Tenders, Metal and Plastic",0.93,514022,8142,8,Plastic Products Machine Operators,C,8C
+"Rolling Machine Setters, Operators, and Tenders, Metal and Plastic",0.83,514023,8142,8,Plastic Products Machine Operators,C,8C
+"Cutting, Punching, and Press Machine Setters, Operators, and Tenders, Metal and Plastic",0.78,514031,8142,8,Plastic Products Machine Operators,C,8C
+"Drilling and Boring Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.94,514032,8142,8,Plastic Products Machine Operators,C,8C
+"Grinding, Lapping, Polishing, and Buffing Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.95,514033,8142,8,Plastic Products Machine Operators,C,8C
+"Lathe and Turning Machine Tool Setters, Operators, and Tenders, Metal and Plastic",0.84,514034,8142,8,Plastic Products Machine Operators,C,8C
+"Milling and Planning Machine Setters, Operators, and Tenders, Metal and Plastic",0.98,514035,8142,8,Plastic Products Machine Operators,C,8C
+"Molding, Core making, and Casting Machine Setters, Operators, and Tenders, Metal and Plastic",0.95,514072,8142,8,Plastic Products Machine Operators,C,8C
+"Heat Treating Equipment Setters, Operators, and Tenders, Metal and Plastic",0.91,514191,8142,8,Plastic Products Machine Operators,C,8C
+"Plating and Coating Machine Setters, Operators, and Tenders, Metal and Plastic",0.92,514193,8142,8,Plastic Products Machine Operators,C,8C
+-,-,514199,8142,8,Plastic Products Machine Operators,-,8-
+Adhesive Bonding Machine Operators and Tenders,0.95,519191,8143,8,Paper Products Machine Operators,C,8C
+"Paper Goods Machine Setters, Operators, and Tenders",0.67,519196,8143,8,Paper Products Machine Operators,C,8C
+"Textile Winding, Twisting, and Drawing Out Machine Setters, Operators, and Tenders",0.96,516064,8151,8,"Fibre Preparing, Spinning and Winding Machine Operators",C,8C
+"Textile Knitting and Weaving Machine Setters, Operators, and Tender",0.73,516063,8152,8,Weaving and Knitting Machine Operators,C,8C
+"Sewing Machine Operators, label 1",0.89,516031,8153,8,Sewing Machine Operators,C,8C
+Textile Bleaching and Dyeing Machine Operators and Tenders,0.97,516061,8154,8,"Bleaching, Dyeing and Fabric Cleaning Machine Operators",C,8C
+-,-,516099,8155,8,Fur and Leather Preparing Machine Operators,-,8-
+Shoe Machine Operators and Tender,0.97,516042,8156,8,Shoemaking and Related Machine Operators,C,8C
+Laundry and Dry-Cleaning Workers,0.71,516011,8157,8,Laundry Machine Operators,S,8S
+-,-,516099,8159,8,"Textile, Fur and Leather Products Machine Not Elsewhere Classified",-,8-
+"Food and Tobacco Roasting, Baking, and Drying Machine Operators and Tenders",0.91,513091,8160,8,Food and Related Products Machine Operators,C,8C
+Food Batch makers,0.7,513092,8160,8,Food and Related Products Machine Operators,I,8I
+Food Batch makers,0.7,513092,8160,8,Food and Related Products Machine Operators,C,8C
+Food Cooking Machine Operators and Tenders,0.61,513093,8160,8,Food and Related Products Machine Operators,-,8-
+-,-,513099,8160,8,Food and Related Products Machine Operators,C,8C
+"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",0.93,519041,8160,8,Food and Related Products Machine Operators,C,8C
+Cooling and Freezing Equipment Operators and Tenders,0.93,519193,8160,8,Food and Related Products Machine Operators,C,8C
+"Cleaning, Washing, and Metal Pickling Equipment Operators and Tenders",0.81,519192,8171,8,Pulp and Papermaking Plant Operators,C,8C
+"Paper Goods Machine Setters, Operators, and Tenders",0.67,519196,8171,8,Pulp and Papermaking Plant Operators,C,8C
+"Sawing Machine Setters, Operators, and Tenders, Wood",0.86,517041,8172,8,Wood Processing Plant Operators,C,8C
+"Extruding and Forming Machine Setters, Operators, and Tenders, Synthetic and Glass Fibbers",0.88,516091,8181,8,Glass and Ceramics Plant Operators,C,8C
+"Crushing, Grinding, and Polishing Machine Setters, Operators, and Tenders",0.97,519021,8181,8,Glass and Ceramics Plant Operators,C,8C
+"Mixing and Blending Machine Setters, Operators, and Tenders",0.83,519023,8181,8,Glass and Ceramics Plant Operators,C,8C
+"Extruding, Forming, Pressing, and Compacting Machine Setters, Operators, and Tenders",0.93,519041,8181,8,Glass and Ceramics Plant Operators,C,8C
+"Furnace, Kiln, Oven, Drier, and Kettle Operators and Tenders",0.37,519051,8181,8,Glass and Ceramics Plant Operators,C,8C
+"Molders, Shapers, and Casters, Except Metal and Plastic",0.9,519195,8181,8,Glass and Ceramics Plant Operators,C,8C
+Stationary Engineers and Boiler Operators,0.89,518021,8182,8,Steam Engine and Boiler Operators,C,8C
+Packaging and Filling Machine Operators and Tenders,0.98,519111,8183,8,"Packing, Bottling, and Labelling Machine Operators",G,8G
+Semiconductor Processors,0.88,519141,8189,8,Stationary Plant and Machine Operators Not Elsewhere Classified,C,8C
+Adhesive Bonding Machine Operators and Tenders,0.95,519191,8189,8,Stationary Plant and Machine Operators Not Elsewhere Classified,C,8C
+Cooling and Freezing Equipment Operators and Tenders,0.93,519193,8189,8,Stationary Plant and Machine Operators Not Elsewhere Classified,C,8C
+Conveyor Operators and Tenders,0.93,537011,8189,8,Stationary Plant and Machine Operators Not Elsewhere Classified,C,8C
+"Aircraft Structure, Surfaces, Rigging, and Systems Assemblers",0.79,512011,8211,8,Mechanical Machinery Assemblers,C,8C
+Engine and Other Machine Assembler,0.82,512031,8211,8,Mechanical Machinery Assemblers,C,8C
+"Coil Winders, Tapers, and Finishers",0.73,512021,8212,8,Electrical and Electronic Equipment Assemblers,C,8C
+"Electrical and Electronic Equipment Assemblers, label 0",0.95,512022,8212,8,Electrical and Electronic Equipment Assemblers,D,8D
+"Electrical and Electronic Equipment Assemblers, label 1",0.95,512022,8212,8,Electrical and Electronic Equipment Assemblers,C,8C
+Electromechanical Equipment Assemblers,0.97,512023,8212,8,Electrical and Electronic Equipment Assemblers,C,8C
+Timing Device Assemblers and Adjusters,0.98,512093,8212,8,Electrical and Electronic Equipment Assemblers,C,8C
+Etchers and Engravers,0.98,519194,8212,8,Electrical and Electronic Equipment Assemblers,M,8M
+Team Assemblers,0.97,512092,8219,8,Assemblers Not Elsewhere Classified,C,8C
+-,-,512099,8219,8,Assemblers Not Elsewhere Classified,-,8-
+First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.029,531031,8311,8,Machine Education,P,8P
+First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.029,531031,8311,8,Locomotive Engine Drivers,H,8H
+Locomotive Engineers,0.96,534011,8311,8,Locomotive Engine Drivers,C,8C
+Locomotive Firers,0.93,534012,8311,8,Locomotive Engine Drivers,H,8H
+"Rail Yard Engineers, Dinkey Operators, and Hostlers",0.91,534013,8311,8,Locomotive Engine Drivers,H,8H
+Subway and Streetcar Operators,0.86,534041,8311,8,Locomotive Engine Drivers,H,8H
+Mine and Shuttle Car Operators,0.37,537111,8311,8,Locomotive Engine Drivers,H,8H
+First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.029,531031,8312,8,"Railway Brake, Signal and Switch Operator",H,8H
+"Railroad Brake, Signal, and Switch Operators",0.83,534021,8312,8,"Railway Brake, Signal and Switch Operator",H,8H
+Railroad Conductors and Yardmasters,0.83,534031,8312,8,"Railway Brake, Signal and Switch Operator",H,8H
+-,-,534099,8312,8,"Railway Brake, Signal and Switch Operator",-,8-
+"Couriers and Messengers, label 1",0.94,435021,8321,8,Motorcycle Drivers,J,8J
+First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.029,531031,8321,8,Motorcycle Drivers,H,8H
+-,-,533099,8321,8,Motorcycle Drivers,-,8-
+First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.029,531031,8322,8,"Car, Taxi and Van Drivers",H,8H
+"Ambulance Drivers and Attendants, Excepts Emergency Medical Technicians",0.25,533011,8322,8,"Car, Taxi and Van Drivers",Q,8Q
+Driver/Sales Workers,0.98,533031,8322,8,"Car, Taxi and Van Drivers",G,8G
+"Light Truck or Delivery Services Drivers, label 1",0.69,533033,8322,8,"Car, Taxi and Van Drivers",H,8H
+Taxi Drivers and Chauffeurs,0.89,533041,8322,8,"Car, Taxi and Van Drivers",T,8T
+Taxi Drivers and Chauffeurs,0.89,533041,8322,8,"Car, Taxi and Van Drivers",H,8H
+First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.029,531031,8331,8,Bus and Tram Drivers,H,8H
+"Bus Drivers, Transit and Intercity, label 1",0.67,533021,8331,8,Bus and Tram Drivers,H,8H
+"Bus Drivers, School or Special Client",0.89,533022,8331,8,Bus and Tram Drivers,H,8H
+Subway and Streetcar Operators,0.86,534041,8331,8,Bus and Tram Drivers,H,8H
+First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.029,531031,8332,8,Heavy Truck and Lorry Drivers,H,8H
+Heavy and Tractor-Trailer Truck Drivers,0.79,533032,8332,8,Heavy Truck and Lorry Drivers,H,8H
+-,-,452091,8341,8,Mobile Farm and Forestry Plant Operators,-,8-
+Logging Equipment Operators,0.79,454022,8341,8,Mobile Farm and Forestry Plant Operators,A,8A
+"Paving, Surfacing, and Tamping Equipment Operators",0.83,472071,8342,8,Earthmoving and Related Plant Operators,C,8C
+Pile-Driver Operators,0.82,472072,8342,8,Earthmoving and Related Plant Operators,C,8C
+Operating Engineers and Other Construction Equipment Operators,0.95,472073,8342,8,Earthmoving and Related Plant Operators,C,8C
+Dredge Operators,0.92,537031,8342,8,Earthmoving and Related Plant Operators,E,8E
+Excavating and Loading Machine and Dragline Operators,0.94,537032,8342,8,Earthmoving and Related Plant Operators,C,8C
+Amusement and Recreation Attendants,0.72,393091,8343,8,"Crane, Hoist and Related Operators",R,8R
+First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.029,531031,8343,8,"Crane, Hoist and Related Operators",H,8H
+Bridge and Lock Tenders,0.97,536011,8343,8,"Crane, Hoist and Related Operators",F,8F
+Crane and Tower Operators,0.9,537021,8343,8,"Crane, Hoist and Related Operators",F,8F
+Hoist and Winch Operators,0.65,537041,8343,8,"Crane, Hoist and Related Operators",F,8F
+First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.029,531031,8344,8,Lifting Truck Operators,H,8H
+"Industrial Truck and Tractor Operators, label 1",0.93,537051,8344,8,Lifting Truck Operators,H,8H
+Sailors and Marine Oilers,0.83,535011,8350,8,Ships’ Deck Crews and Related Workers,H,8H
+"Motorboat Operators, label 1",0.62,535022,8350,8,Ships’ Deck Crews and Related Workers,H,8H
+"Maids and Housekeeping Cleaners, label 0",0.69,372012,9111,9,Domestic Helpers Nurse,Q,9Q
+"Maids and Housekeeping Cleaners, label 0",0.69,372012,9111,9,Domestic Tutor,P,9P
+"Maids and Housekeeping Cleaners, label 0",0.69,372012,9111,9,Domestic Security,O,9O
+"Maids and Housekeeping Cleaners, label 0",0.69,372012,9111,9,Domestic Cleaners and Helpers,N,9N
+"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",0.66,372011,9112,9,"Cleaners and Helpers in Offices, Hotels and Other Establishments",N,9N
+"Maids and Housekeeping Cleaners, label 0",0.69,372012,9112,9,"Cleaners and Helpers in Offices, Hotels and Other Establishments",N,9N
+Cleaners of Vehicles and Equipment,0.37,537061,9112,9,"Cleaners and Helpers in Offices, Hotels and Other Establishments",N,9N
+"Pressers, Textile, Garment, and Related Materials",0.81,516021,9121,9,Hand Launderers and Pressers,S,9S
+Cleaners of Vehicles and Equipment,0.37,537061,9122,9,Vehicle Cleaners,S,9S
+"Janitors and Cleaners, Except Maids and Housekeeping Cleaners",0.66,372011,9123,9,Window Cleaners,S,9S
+-,-,372019,9129,9,Other Cleaning Workers,-,9-
+Septic Tank Servicers and Sewer Pipe Cleaners,0.83,474071,9129,9,Other Cleaning Workers,E,9E
+-,-,452092,9211,9,Crop Farm Labourers,-,9-
+-,-,452099,9211,9,Crop Farm Labourers,-,9-
+-,-,452093,9212,9,Livestock Farm Labourers,-,9-
+-,-,452099,9212,9,Livestock Farm Labourers,-,9-
+-,-,452092,9213,9,Mixed Crop and Livestock Farm Labourers,-,9-
+-,-,452093,9213,9,Mixed Crop and Livestock Farm Labourers,-,9-
+-,-,452099,9213,9,Mixed Crop and Livestock Farm Labourers,-,9-
+Landscaping and Groundskeeping Workers,0.95,373011,9214,9,Garden and Horticultural Labourers,N,9N
+-,-,373019,9214,9,Garden and Horticultural Labourers,-,9-
+-,-,452092,9214,9,Garden and Horticultural Labourers,-,9-
+Forest and Conservation Workers,0.87,454011,9215,9,Forestry Labourers,A,9A
+-,-,454029,9215,9,Forestry Labourers,-,9-
+-,-,452093,9216,9,Fishery and Aquaculture Labourers,-,9-
+Fishers and Related Fishing Workers,0.83,453011,9216,9,Fishery and Aquaculture Labourers,A,9A
+Helpers-Extraction Workers,0.37,475081,9311,9,Mining and Quarrying Labourers,B,9B
+-,-,475099,9311,9,Mining and Quarrying Labourers,-,9-
+-,-,473019,9312,9,Civil Engineering Labourers,-,9-
+Highway Maintenance Workers,0.87,474051,9312,9,Civil Engineering Labourers,F,9F
+Rail-Track Laying and Maintenance Equipment Operators,0.89,474061,9312,9,Civil Engineering Labourers,F,9F
+Construction Labourer,0.88,472061,9313,9,Building Construction Labourers,F,9F
+"Helpers–Brick masons, Block masons, Stonemasons, and Tile and Marble Setters",0.83,473011,9313,9,Building Construction Labourers,F,9F
+Helpers–Carpenters,0.92,473012,9313,9,Building Construction Labourers,F,9F
+Helpers–Electricians,0.74,473013,9313,9,Building Construction Labourers,D,9D
+"Helpers–Painters, Paperhangers, Plasterers, and Stucco Masons",0.94,473014,9313,9,Building Construction Labourers,F,9F
+"Helpers-Pipelayers, Plumbers, Pipefitters, and Steamfitters",0.57,473015,9313,9,Building Construction Labourers,F,9F
+Helpers–Roofers,0.72,473016,9313,9,Building Construction Labourers,F,9F
+-,-,473019,9313,9,Building Construction Labourers,-,9-
+"Packers and Packages, Hand",0.38,537064,9321,9,Hand Packers,N,9N
+Helpers–Production Workers,0.66,519198,9329,9,Manufacturing Labourers Not Elsewhere Classified,C,9C
+-,-,519199,9329,9,Manufacturing Labourers Not Elsewhere Classified,-,9-
+"Laborers and Freight, Stock, and Material Movers, Hand",0.85,537062,9329,9,Manufacturing Labourers Not Elsewhere Classified,C,9C
+Machine Feeders and Off bearers,0.93,537063,9329,9,Manufacturing Labourers Not Elsewhere Classified,C,9C
+"Couriers and Messengers, label 1",0.94,435021,9331,9,Hand and Pedal Vehicle Drivers,H,9H
+-,-,536099,9331,9,Hand and Pedal Vehicle Drivers,-,9-
+-,-,537199,9331,9,Hand and Pedal Vehicle Drivers,-,9-
+-,-,536099,9332,9,Drivers of Animal-drawn Vehicles and Machinery,-,9-
+-,-,537199,9332,9,Drivers of Animal-drawn Vehicles and Machinery,-,9-
+Aircraft Cargo Handling Supervisors,0.066,531011,9333,9,Freight Handlers,H,9H
+"First-Line Supervisors of Helpers, Labourers, and Material Movers, Hand",0.42,531021,9333,9,Freight Handlers,H,9H
+"Laborers and Freight, Stock, and Material Movers, Hand",0.85,537062,9333,9,Freight Handlers,H,9H
+"Tank Car, Truck, and Ship Loaders",0.72,537121,9333,9,Freight Handlers,H,9H
+Stock Clerks and Order Fillers,0.64,435081,9334,9,Shelf Fillers,G,9G
+"Cooks, Fast Food, label 1",0.81,352011,9411,9,Fast Food Preparers,I,9I
+"Cooks, Short Order",0.94,352015,9411,9,Fast Food Preparers,I,9I
+Food Preparation Workers,0.87,352021,9412,9,Kitchen Helpers,I,9I
+Dining Room and Cafeteria Attendants and Bartender Helpers,0.91,359011,9412,9,Kitchen Helpers,I,9I
+"Dishwashers, label 1",0.77,359021,9412,9,Kitchen Helpers,N,9N
+-,-,359099,9412,9,Kitchen Helpers,-,9-
+-,-,399099,9510,9,Street and Related Services Workers,-,9-
+"Door-to-Door Sales Workers, News and Street Vendors, and Related Workers",0.94,419091,9520,9,Street Vendors (excluding Food),G,9G
+First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.029,531031,9611,9,Elementary Real Estate,L,9L
+First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.029,531031,9611,9,Elementary Finance,K,9K
+First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.029,531031,9611,9,Elementary Specialists,M,9M
+First-Line Supervisors of Transportation and Material-Moving Machine and Vehicle Operators,0.029,531031,9611,9,Garbage and Recycling Collectors,H,9H
+Refuse and Recyclable Material Collectors,0.93,537081,9611,9,Garbage and Recycling Collectors,E,9E
+Refuse and Recyclable Material Collectors,0.93,537081,9612,9,Refuse Sorters,E,9E
+-,-,373019,9613,9,Sweepers and Related Labourers,-,9-
+Baggage Porters and Bellhops,0.83,396011,9621,9,"Messengers, Package Deliveries and Luggage Porters",I,9I
+"Couriers and Messengers, label 1",0.94,435021,9621,9,"Messengers, Package Deliveries and Luggage Porters",H,9H
+-,-,373019,9622,9,Odd-job Persons,-,9-
+"Maintenance and Repair Workers, General",0.64,499071,9622,9,Odd-job Persons,S,9S
+"Maintenance and Repair Workers, General",0.64,499071,9622,9,Odd-job Persons ,,
+"Helpers–Installation, Maintenance, and Repair Workers",0.79,499098,9622,9,Odd-job Persons,S,9S
+-,-,499099,9622,9,Odd-job Persons,-,9-
+"Meter Readers, Utilities",0.85,435041,9623,9,Meter Readers and Vending-machine Collectors,D,9D
+"Coin, Vending, and Amusement Machine Servicers and Repairers",0.94,499091,9623,9,Meter Readers and Vending-machine Collectors,N,9N
+"Laborers and Freight, Stock, and Material Movers, Hand",0.85,537062,9624,9,Water and Firewood Collectors,H,9H
+Motion Picture Projectionists,0.97,393021,9629,9,Elementary Workers Not Elsewhere Classified,J,9J
+"Ushers, Lobby Attendants, and Ticket Takers",0.96,393031,9629,9,Elementary Workers Not Elsewhere Classified,N,9N
+Amusement and Recreation Attendants,0.72,393091,9629,9,Elementary Workers Not Elsewhere Classified,R,9R
+"Locker Room, Coatroom, and Dressing Room Attendants",0.43,393093,9629,9,Elementary Workers Not Elsewhere Classified,S,9S
+"Parking Lot Attendants, label 1",0.87,536021,9629,9,Elementary Workers Not Elsewhere Classified,N,9N
